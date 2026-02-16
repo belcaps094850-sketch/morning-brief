@@ -1,0 +1,86 @@
+[
+  {
+    "id": "2026-02-15",
+    "date": "2026-02-15",
+    "pocHighlight": {
+      "title": "Claude Opus 4.6 Agentic Coding Benchmark",
+      "summary": "Anthropic's Opus 4.6 leads in agentic coding and tool use — build a POC comparing agent task completion rates across models.",
+      "category": "AI",
+      "source": "https://www.anthropic.com/news"
+    },
+    "categories": {
+      "SRE": {
+        "topPick": "System Health Monitoring Automation",
+        "summary": "All systems healthy — disk 15%, no swap, no zombies. Two outdated brew packages flagged.",
+        "source": "scout-briefing-2026-02-15.md",
+        "digest": "Scout's daily briefing shows clean system health across all metrics. Load averages normal (1.23/1.29/1.30), 6.8GB active memory, all 6 agent workspaces intact. Minor items: mission-control has uncommitted changes to public/data.json, llhttp and summarize brew packages outdated. All ports localhost-only. SSH and OpenClaw configs properly permissioned."
+      },
+      "React": {
+        "topPick": "React Radar Timeout — Brave API Key Missing",
+        "summary": "Pixel's React Radar cron timed out due to missing Brave API key, falling back to slow web_fetch.",
+        "source": "changelog-2026-02-15.md",
+        "digest": "The React Radar job (4 AM daily) failed with timeout. Root cause: missing Brave Search API key on the uidev agent workspace, causing fallback to slow sequential web_fetch calls. Fix: configure BRAVE_API_KEY for Pixel and bump job timeout to 600s. No React ecosystem news was captured today as a result."
+      },
+      "AI": {
+        "topPick": "Claude Opus 4.6 Released — Industry-Leading Agentic Model",
+        "summary": "Anthropic's strongest model yet, leading in agentic coding, computer use, tool use, search, and finance.",
+        "source": "https://www.anthropic.com/news",
+        "digest": "Claude Opus 4.6 launched Feb 5 — Anthropic's most capable model, leading across agentic coding, computer use, tool use, search, and finance benchmarks. Already running on Bel's OpenClaw setup. Anthropic also committed to keeping Claude permanently ad-free (3,028 upvotes on r/ClaudeAI). OpenAI shipping aggressively but facing community skepticism. Open-source AI shifting East per Yann LeCun at Davos. Government AI security remains concerning — acting cyber chief uploaded sensitive files to public ChatGPT."
+      },
+      "Security": {
+        "topPick": "Security Scan Clean — No Critical Issues",
+        "summary": "Sentinel reports clean scan. macOS firewall enabled, no listening TCP ports, proper file permissions.",
+        "source": "security-scan-2026-02-15.md",
+        "digest": "Sentinel's security scan came back clean. macOS firewall confirmed enabled (State=1). No listening TCP ports detected. All sensitive directories (/.openclaw, /.ssh) have correct permissions (700/600). No SSH private keys on machine. Only action item: optionally upgrade llhttp and summarize brew packages."
+      },
+      "MSL": {
+        "topPick": "Medical Stop Loss Market Overview — $30B+ Market",
+        "summary": "Comprehensive MSL primer: self-funding enabler, key carriers (Sun Life, HM Insurance, Voya), and market dynamics.",
+        "source": "msl-overview-2026-02-14.md",
+        "digest": "Nova's MSL overview covers the full landscape. Stop loss insurance enables self-funded health plans by capping catastrophic risk at individual (specific) and aggregate (plan) levels. Market is $30-35B+ in annual premium, growing 8-12% annually as self-funding moves downmarket. Key carriers: Sun Life, HM Insurance Group, Voya, Berkshire Hathaway Specialty, Tokio Marine HCC. Emerging trends: gene/cell therapy and GLP-1 drugs reshaping risk profiles. Distribution heavily influenced by major brokers (Marsh, Aon, WTW, Lockton)."
+      }
+    }
+  },
+  {
+    "id": "2026-02-14",
+    "date": "2026-02-14",
+    "pocHighlight": {
+      "title": "Self-Funded Health Plan Cost Simulator",
+      "summary": "Build a calculator comparing fully-insured vs self-funded + stop loss costs for mid-market employers.",
+      "category": "MSL",
+      "source": "msl-overview-2026-02-14.md"
+    },
+    "categories": {
+      "SRE": {
+        "topPick": "System Baseline Established — All Green",
+        "summary": "Disk at 10%, low load averages, zero swap, all agent workspaces intact.",
+        "source": "scout-briefing-2026-02-14.md",
+        "digest": "Valentine's Day system check: disk 10% (11Gi/228Gi), load 0.49/0.56/0.59, zero swapouts. All 6 agent workspaces healthy with SOUL.md present. One minor flag: macOS firewall status couldn't be read. One world-writable file found (uv cache lock — low risk). Summarize brew package outdated."
+      },
+      "AI": {
+        "topPick": "AI News Roundup — Opus 4.6, Ad-Free Claude, Open Source Shifting East",
+        "summary": "Major AI developments: Opus 4.6 launch, Anthropic's ad-free commitment, LeCun on Chinese open models.",
+        "source": "ai-digest-2026-02-14.md",
+        "digest": "Radar's comprehensive AI digest covering Jan 15 – Feb 14. Headlines: Claude Opus 4.6 released (Feb 5), Anthropic commits to ad-free Claude forever, OpenAI in aggressive shipping mode but facing skepticism, Yann LeCun says best open models now come from China, government AI security concerns (sensitive files uploaded to public ChatGPT). The Maciejewska quote about AI doing laundry not art hit 30K+ upvotes — philosophical pushback growing."
+      },
+      "Security": {
+        "topPick": "Government AI Security Failures",
+        "summary": "Acting CISA director uploaded sensitive government files to public ChatGPT — DHS damage assessment triggered.",
+        "source": "ai-digest-2026-02-14.md",
+        "digest": "Two concerning government AI incidents: White House posted digitally altered image of arrested protester (1,075 upvotes on r/artificial), and Trump's interim CISA director uploaded sensitive government files to public ChatGPT, triggering DHS-level damage assessment (1,044 upvotes). Highlights ongoing gaps in AI security awareness at highest government levels."
+      },
+      "MSL": {
+        "topPick": "MSL Market Primer — Carriers, Distribution, Trends",
+        "summary": "Nova delivered comprehensive stop loss overview: $30B+ market, top carriers, self-funding trends.",
+        "source": "msl-overview-2026-02-14.md",
+        "digest": "Full market overview delivered. Key insight: stop loss is the financial enabler that makes self-funded health plans viable for mid-market employers. Without it, only Fortune 500-scale companies could absorb the claim volatility. The market is consolidating around Tier 1 carriers while InsurTech players (Ringmaster, AccuRisk) modernize distribution."
+      },
+      "React": {
+        "topPick": "No React digest available",
+        "summary": "React Radar job not yet configured for this date.",
+        "source": "",
+        "digest": "No React ecosystem news was captured for this date. The React Radar cron job was set up on Feb 15."
+      }
+    }
+  }
+]

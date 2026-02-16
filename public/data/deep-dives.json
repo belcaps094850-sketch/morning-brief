@@ -1,0 +1,36 @@
+[
+  {
+    "id": 1,
+    "title": "Medical Stop Loss Insurance \u2014 Market Deep Dive",
+    "status": "active",
+    "progress": 35,
+    "overview": "Understanding the MSL market end-to-end: how self-funded health plans work, what stop loss covers, who the key carriers are, and where technology can disrupt the value chain.",
+    "researchNotes": [
+      "Market size: $30-35B+ in annual premium, growing 8-12% YoY",
+      "Self-funding trend moving downmarket \u2014 now viable for 100+ life groups, level-funded pushing to 10+",
+      "Key carriers: Sun Life (#1-2), HM Insurance (oldest pure-play), Voya, Berkshire Hathaway Specialty, Tokio Marine HCC",
+      "Distribution dominated by brokers (Marsh, Aon, WTW, Lockton) and TPAs",
+      "Emerging InsurTech players: Ringmaster Technologies, AccuRisk Solutions",
+      "Gene/cell therapy and GLP-1 drugs reshaping risk profiles and pricing"
+    ],
+    "businessAngle": "Build tools for brokers and employers to compare stop loss quotes, model claim scenarios, and optimize attachment points. The quoting process is still largely manual and spreadsheet-driven \u2014 ripe for automation.",
+    "pocStatus": "Planning phase \u2014 need to define MVP scope. Cost simulator is the leading candidate for first POC.",
+    "resources": [
+      {
+        "title": "Nova's MSL Overview",
+        "url": "/data/briefs.json"
+      },
+      {
+        "title": "Sun Life Stop Loss",
+        "url": "https://www.sunlife.com/us/en/group/stop-loss/"
+      },
+      {
+        "title": "HM Insurance Group",
+        "url": "https://www.hmig.com/"
+      }
+    ],
+    "startDate": "2026-02-14",
+    "lastUpdated": "2026-02-15",
+    "inspiredBy": "b2b-cx"
+  }
+]

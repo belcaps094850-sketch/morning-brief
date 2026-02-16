@@ -1,0 +1,219 @@
+[
+  {
+    "id": "de-positioning",
+    "title": "De-Positioning",
+    "subtitle": "The Secret Brand Strategy for Creating Competitive Advantage",
+    "author": "Todd Irwin",
+    "tags": ["B2B", "Brand Strategy", "Positioning"],
+    "researchedBy": "Sage",
+    "dateAdded": "2026-02-15",
+    "status": "notes-complete",
+    "keyTakeaways": [
+      "Traditional positioning no longer works in saturated markets — de-position competitors instead",
+      "Find the single 'Hero Pain Point' customers care most about",
+      "Own one idea in the customer's mind — focus creates power",
+      "Make the customer the hero, not your brand",
+      "Align the entire organization around the one idea"
+    ],
+    "overview": "Traditional brand positioning — trying to differentiate by claiming uniqueness — no longer works in saturated markets. Instead, brands should de-position competitors by identifying real customer pain points that rivals can't or won't solve, then aligning the entire organization around eliminating that pain.",
+    "overviewQuote": "Differentiation alone is not enough. Brands win not by shouting louder, but by solving the one problem competitors leave unresolved — making alternatives feel unnecessary.",
+    "principles": [
+      {
+        "title": "Abandon the Search for \"White Space\"",
+        "description": "Every category is already occupied. Instead of inventing a new lane, redefine existing space by reframing how customers see current options. Identify a clear \"enemy\" — not a competitor, but a problem or outdated way of doing things."
+      },
+      {
+        "title": "Find the \"Hero Pain Point\"",
+        "description": "Not one of many problems — the single most emotionally charged and practically urgent issue customers want solved. Focus creates power. Trying to address too many needs weakens impact."
+      },
+      {
+        "title": "Make the Customer the Hero",
+        "description": "Customers don't wake up hoping to admire a brand. They wake up because something isn't working. Winning brands identify the obstacle and organize everything around removing it."
+      },
+      {
+        "title": "Study Competitors to Expose What They Can't Fix",
+        "description": "Study rivals deeply — not to copy, but to uncover what they cannot or will not fix. Every organization carries limitations. Those weaknesses are your strategic openings."
+      },
+      {
+        "title": "Own One Idea in the Customer's Mind",
+        "description": "Brands that try to stand for too many things end up standing for nothing. One strong concept creates a mental shortcut — easy to understand, easy to remember."
+      },
+      {
+        "title": "Integrate Across the Entire Organization",
+        "description": "If the external promise doesn't match the internal experience, trust collapses. Every part of the business must reinforce the same strategic idea."
+      }
+    ],
+    "frameworks": [
+      {
+        "name": "The De-Positioning Process",
+        "steps": [
+          "Research & Observe — Deep customer research + competitor analysis",
+          "Identify the Hero Pain Point — The single most urgent, unresolved customer frustration",
+          "Map Competitor Weaknesses — Where do rivals fail to solve this pain?",
+          "Define Your One Idea — The clear, ownable solution that makes alternatives feel outdated",
+          "Align the Organization — Every touchpoint reinforces the one idea",
+          "Execute with Discipline — Say no to anything that dilutes focus"
+        ]
+      },
+      {
+        "name": "The \"Enemy\" Framework",
+        "table": [
+          { "element": "The Enemy", "description": "Not a competitor — a problem, inefficiency, or outdated approach" },
+          { "element": "The Pain", "description": "The hero pain point customers feel most urgently" },
+          { "element": "The Solution", "description": "Your brand's singular, clear answer" },
+          { "element": "The Contrast", "description": "How your solution makes the old way feel inadequate" }
+        ]
+      }
+    ],
+    "caseStudies": [
+      {
+        "name": "Apple — The Second-Mover Masterclass",
+        "description": "Didn't succeed by being first. Observed early players, let them introduce complexity and frustration, then entered with simplicity, integration, and design. De-positioned competitors as complicated and uninspiring."
+      },
+      {
+        "name": "Volvo — Owning One Idea for Decades",
+        "description": "Owned safety. Didn't try to be fastest, most luxurious, or most affordable. Every decision reinforced one concept. Discipline in owning one idea creates lasting brand equity."
+      }
+    ],
+    "b2bApplications": [
+      { "principle": "Hero Pain Point", "application": "Map the #1 frustration for each audience segment. Own the one that matters most." },
+      { "principle": "Customer as Hero", "application": "Lead with their pain, not our capabilities. Center the customer's problem everywhere." },
+      { "principle": "Competitor Weakness Mapping", "application": "Audit competitor CX — slow onboarding? Opaque pricing? Bad support? Those gaps are our strategy." },
+      { "principle": "Own One Idea", "application": "One promise per audience. Brokers: speed. Employers: certainty. TPAs: integration." },
+      { "principle": "Organizational Alignment", "application": "CX promises mean nothing if sales, onboarding, and support don't deliver the same experience." },
+      { "principle": "Second-Mover Advantage", "application": "Study what incumbents get wrong. Build the experience that makes their way feel outdated." }
+    ],
+    "quotes": [
+      "Brands win not by being different, but by being the clear antidote to an unresolved frustration.",
+      "Focus creates power. One strong concept creates a mental shortcut.",
+      "If the promise a brand makes externally does not match the experience delivered internally, trust collapses.",
+      "Customers don't wake up hoping to admire a brand's personality. They wake up because something isn't working."
+    ],
+    "actionItems": [
+      "Run a Hero Pain Point exercise for each audience segment",
+      "Audit 3-5 competitor websites and CX flows",
+      "Define our \"One Idea\" per audience and pressure-test it",
+      "Align website copy, sales materials, and support scripts around that idea",
+      "Create an internal alignment check — does every team reinforce the promise?"
+    ]
+  },
+  {
+    "id": "b2b-cx",
+    "title": "B2B Customer Experience — Deep Dive",
+    "subtitle": "Multi-Source Research",
+    "author": "Multi-source research",
+    "tags": ["B2B", "CX", "Strategy", "Frameworks"],
+    "researchedBy": "Sage",
+    "dateAdded": "2026-02-15",
+    "status": "notes-complete",
+    "keyTakeaways": [
+      "CX is the differentiator — not price, not features",
+      "Reduce effort, don't delight — make it easy, not impressive",
+      "B2B buyers are anxious humans — address the emotional job",
+      "Self-service is expected — build for independence first",
+      "Post-purchase is where revenue lives — invest in retention",
+      "Align internally or fail externally — disconnected teams = disconnected CX"
+    ],
+    "overview": "B2B CX is how a business customer perceives your brand across every interaction — from first research to onboarding, ongoing service, and renewal. Unlike B2C, it involves multiple stakeholders, longer sales cycles, higher stakes, and ongoing relationships.",
+    "overviewQuote": "B2B buyers are still humans. They bring the same expectations from their B2C experiences into professional purchasing. The gap between B2C ease and B2B friction is where trust breaks.",
+    "principles": [
+      {
+        "title": "Reduce Effort, Don't Delight",
+        "description": "Loyalty comes from reducing effort, not exceeding expectations. Customers don't reward you for going above and beyond — they punish you for making things hard."
+      },
+      {
+        "title": "Self-Service Is the New Default",
+        "description": "65–81% of B2B buyers prefer to research and solve problems independently. Winning companies build better self-service tools, not bigger sales teams."
+      },
+      {
+        "title": "The Buying Committee Challenge",
+        "description": "B2B purchases involve 3-10 people with different priorities: economic buyers care about cost/ROI, technical buyers about integration/security, user buyers about ease of use, champions about career advancement, and blockers about risk avoidance."
+      },
+      {
+        "title": "Post-Purchase Is Where the Money Is",
+        "description": "In recurring revenue models, 80%+ of revenue comes after the initial sale. Yet most companies spend 80%+ of CX effort on acquisition."
+      },
+      {
+        "title": "Internal Alignment Is Non-Negotiable",
+        "description": "Only 24% of service leaders have full-funnel visibility. The biggest CX failures aren't bad interactions — they're disconnected interactions."
+      },
+      {
+        "title": "Emotional Experience Matters More Than You Think",
+        "description": "Anxiety drives B2B decisions more than logic. Buyers choose vendors who make them feel safe and confident. Trust is the currency."
+      }
+    ],
+    "frameworks": [
+      {
+        "name": "The Trust Equation",
+        "description": "Trust = (Credibility + Reliability + Intimacy) ÷ Self-Orientation. Every touchpoint builds or erodes trust. The biggest killer is self-orientation — talking about your features instead of the customer's problem."
+      },
+      {
+        "name": "Jobs to Be Done (JTBD) for B2B",
+        "table": [
+          { "element": "Functional", "description": "\"Help me process claims faster\"" },
+          { "element": "Emotional", "description": "\"Help me feel confident I made the right choice\"" },
+          { "element": "Social", "description": "\"Help me look competent to my leadership\"" }
+        ],
+        "note": "The emotional and social jobs are often more important than the functional job — but most B2B companies only address functional needs."
+      },
+      {
+        "name": "Effort-Value Matrix",
+        "table": [
+          { "element": "High Effort + Low Value", "description": "Frustration (churn risk)" },
+          { "element": "High Effort + High Value", "description": "Tolerance (vulnerable)" },
+          { "element": "Low Effort + Low Value", "description": "Indifference (commodity)" },
+          { "element": "Low Effort + High Value", "description": "Loyalty (the goal)" }
+        ]
+      },
+      {
+        "name": "Buyer Anxiety Model",
+        "steps": [
+          "Pre-purchase anxiety: \"Am I choosing the right vendor? Will I look bad if this fails?\"",
+          "Purchase anxiety: \"Is this contract fair? Am I missing something?\"",
+          "Post-purchase anxiety: \"Did I make the right call? Is this working?\""
+        ],
+        "note": "CX must address all three phases. Most companies only focus on pre-purchase and ignore post-purchase — where churn happens."
+      }
+    ],
+    "stats": [
+      { "stat": "80%+", "description": "of organizations expect to compete mainly on CX", "source": "Gartner" },
+      { "stat": "81%", "description": "of B2B pros prefer vendors offering self-service tools", "source": "HubSpot 2024" },
+      { "stat": "57%", "description": "of B2B buyers purchased without a single sales meeting", "source": "HubSpot 2024" },
+      { "stat": "67%", "description": "of customers expect ticket resolution within 3 hours", "source": "HubSpot" },
+      { "stat": "50%", "description": "of B2B buyers say the buying experience is outdated", "source": "HubSpot 2024" }
+    ],
+    "metrics": [
+      { "metric": "CES (Customer Effort Score)", "why": "#1 predictor of loyalty" },
+      { "metric": "NPS", "why": "Overall relationship health" },
+      { "metric": "Time to Value", "why": "Onboarding effectiveness" },
+      { "metric": "Customer Health Score", "why": "Churn prediction" },
+      { "metric": "First Contact Resolution", "why": "Support efficiency + satisfaction" },
+      { "metric": "Expansion Revenue", "why": "CX-driven growth from existing customers" }
+    ],
+    "quotes": [
+      "B2B buyers are still humans. They bring the same expectations from their B2C experiences into professional purchasing.",
+      "Loyalty comes from reducing effort, not exceeding expectations.",
+      "In recurring revenue models, 80%+ of revenue comes after the initial sale.",
+      "Anxiety drives B2B decisions more than logic. Buyers choose vendors who make them feel safe and confident."
+    ],
+    "actionItems": [
+      "CX is the differentiator — not price, not features",
+      "Reduce effort, don't delight — make it easy, not impressive",
+      "B2B buyers are anxious humans — address the emotional job",
+      "Self-service is expected — build for independence first",
+      "Post-purchase is where revenue lives — invest in retention",
+      "Align internally or fail externally — disconnected teams = disconnected CX",
+      "Own one idea per audience — clarity beats comprehensiveness",
+      "Measure effort, not just satisfaction — CES is the strongest predictor",
+      "Speed is a CX strategy — fast everything = trust",
+      "Every interaction is a trust transaction — deposits or withdrawals"
+    ],
+    "recommendedReading": [
+      { "title": "The Effortless Experience — Dixon et al.", "insight": "Loyalty = reducing effort, not delighting" },
+      { "title": "The Challenger Sale — Dixon & Adamson", "insight": "Best B2B sales teaches, tailors, and takes control" },
+      { "title": "Customer Success — Mehta et al.", "insight": "Proactive success > reactive support" },
+      { "title": "Obviously Awesome — April Dunford", "insight": "Positioning from customer context, not features" },
+      { "title": "De-Positioning — Todd Irwin", "insight": "Solve the pain competitors leave unresolved" }
+    ]
+  }
+]

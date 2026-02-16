@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "title": "Multi-Model Agent Benchmark",
+    "category": "AI",
+    "sourceDate": "2026-02-15",
+    "description": "Build a POC comparing agentic task completion rates across Claude Opus 4.6, GPT-4, and open-source models. Test coding, tool use, and multi-step reasoning tasks.",
+    "status": "spark"
+  },
+  {
+    "id": 2,
+    "title": "Self-Funded Health Plan Cost Simulator",
+    "category": "MSL",
+    "sourceDate": "2026-02-14",
+    "description": "Interactive calculator comparing fully-insured vs self-funded + stop loss costs for employers with 100-5000 employees. Factor in specific and aggregate deductibles, expected claims, and carrier pricing.",
+    "status": "researching",
+    "bookRef": "de-positioning"
+  },
+  {
+    "id": 3,
+    "title": "Automated SRE Dashboard",
+    "category": "SRE",
+    "sourceDate": "2026-02-15",
+    "description": "Consolidate Scout's daily system health checks into a live dashboard. Track disk, memory, load, port exposure, and agent health over time with trend lines.",
+    "status": "spark"
+  },
+  {
+    "id": 4,
+    "title": "AI-Powered Security Audit Reporter",
+    "category": "SRE",
+    "sourceDate": "2026-02-15",
+    "description": "Combine Sentinel's security scans with Scout's system checks into a unified security posture report. Flag regressions automatically.",
+    "status": "spark"
+  },
+  {
+    "id": 5,
+    "title": "Stop Loss Claims Severity Tracker",
+    "category": "MSL",
+    "sourceDate": "2026-02-14",
+    "description": "Track and visualize large claim trends (gene therapy, GLP-1, transplants) that drive stop loss pricing. Use public data sources to model impact on attachment points.",
+    "status": "spark",
+    "bookRef": "de-positioning"
+  },
+  {
+    "id": 6,
+    "title": "React Component Library for Agent UIs",
+    "category": "React",
+    "sourceDate": "2026-02-15",
+    "description": "Build a shared React component library for all agent-facing dashboards. Cards, tables, status badges, and charts \u2014 minimal and consistent design system.",
+    "status": "spark"
+  }
+]
