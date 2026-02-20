@@ -4,27 +4,31 @@
     "title": "De-Positioning",
     "subtitle": "The Secret Brand Strategy for Creating Competitive Advantage",
     "author": "Todd Irwin",
-    "tags": ["B2B", "Brand Strategy", "Positioning"],
+    "tags": [
+      "B2B",
+      "Brand Strategy",
+      "Positioning"
+    ],
     "researchedBy": "Sage",
     "dateAdded": "2026-02-15",
     "status": "notes-complete",
     "keyTakeaways": [
-      "Traditional positioning no longer works in saturated markets — de-position competitors instead",
+      "Traditional positioning no longer works in saturated markets \u2014 de-position competitors instead",
       "Find the single 'Hero Pain Point' customers care most about",
-      "Own one idea in the customer's mind — focus creates power",
+      "Own one idea in the customer's mind \u2014 focus creates power",
       "Make the customer the hero, not your brand",
       "Align the entire organization around the one idea"
     ],
-    "overview": "Traditional brand positioning — trying to differentiate by claiming uniqueness — no longer works in saturated markets. Instead, brands should de-position competitors by identifying real customer pain points that rivals can't or won't solve, then aligning the entire organization around eliminating that pain.",
-    "overviewQuote": "Differentiation alone is not enough. Brands win not by shouting louder, but by solving the one problem competitors leave unresolved — making alternatives feel unnecessary.",
+    "overview": "Traditional brand positioning \u2014 trying to differentiate by claiming uniqueness \u2014 no longer works in saturated markets. Instead, brands should de-position competitors by identifying real customer pain points that rivals can't or won't solve, then aligning the entire organization around eliminating that pain.",
+    "overviewQuote": "Differentiation alone is not enough. Brands win not by shouting louder, but by solving the one problem competitors leave unresolved \u2014 making alternatives feel unnecessary.",
     "principles": [
       {
         "title": "Abandon the Search for \"White Space\"",
-        "description": "Every category is already occupied. Instead of inventing a new lane, redefine existing space by reframing how customers see current options. Identify a clear \"enemy\" — not a competitor, but a problem or outdated way of doing things."
+        "description": "Every category is already occupied. Instead of inventing a new lane, redefine existing space by reframing how customers see current options. Identify a clear \"enemy\" \u2014 not a competitor, but a problem or outdated way of doing things."
       },
       {
         "title": "Find the \"Hero Pain Point\"",
-        "description": "Not one of many problems — the single most emotionally charged and practically urgent issue customers want solved. Focus creates power. Trying to address too many needs weakens impact."
+        "description": "Not one of many problems \u2014 the single most emotionally charged and practically urgent issue customers want solved. Focus creates power. Trying to address too many needs weakens impact."
       },
       {
         "title": "Make the Customer the Hero",
@@ -32,11 +36,11 @@
       },
       {
         "title": "Study Competitors to Expose What They Can't Fix",
-        "description": "Study rivals deeply — not to copy, but to uncover what they cannot or will not fix. Every organization carries limitations. Those weaknesses are your strategic openings."
+        "description": "Study rivals deeply \u2014 not to copy, but to uncover what they cannot or will not fix. Every organization carries limitations. Those weaknesses are your strategic openings."
       },
       {
         "title": "Own One Idea in the Customer's Mind",
-        "description": "Brands that try to stand for too many things end up standing for nothing. One strong concept creates a mental shortcut — easy to understand, easy to remember."
+        "description": "Brands that try to stand for too many things end up standing for nothing. One strong concept creates a mental shortcut \u2014 easy to understand, easy to remember."
       },
       {
         "title": "Integrate Across the Entire Organization",
@@ -47,41 +51,71 @@
       {
         "name": "The De-Positioning Process",
         "steps": [
-          "Research & Observe — Deep customer research + competitor analysis",
-          "Identify the Hero Pain Point — The single most urgent, unresolved customer frustration",
-          "Map Competitor Weaknesses — Where do rivals fail to solve this pain?",
-          "Define Your One Idea — The clear, ownable solution that makes alternatives feel outdated",
-          "Align the Organization — Every touchpoint reinforces the one idea",
-          "Execute with Discipline — Say no to anything that dilutes focus"
+          "Research & Observe \u2014 Deep customer research + competitor analysis",
+          "Identify the Hero Pain Point \u2014 The single most urgent, unresolved customer frustration",
+          "Map Competitor Weaknesses \u2014 Where do rivals fail to solve this pain?",
+          "Define Your One Idea \u2014 The clear, ownable solution that makes alternatives feel outdated",
+          "Align the Organization \u2014 Every touchpoint reinforces the one idea",
+          "Execute with Discipline \u2014 Say no to anything that dilutes focus"
         ]
       },
       {
         "name": "The \"Enemy\" Framework",
         "table": [
-          { "element": "The Enemy", "description": "Not a competitor — a problem, inefficiency, or outdated approach" },
-          { "element": "The Pain", "description": "The hero pain point customers feel most urgently" },
-          { "element": "The Solution", "description": "Your brand's singular, clear answer" },
-          { "element": "The Contrast", "description": "How your solution makes the old way feel inadequate" }
+          {
+            "element": "The Enemy",
+            "description": "Not a competitor \u2014 a problem, inefficiency, or outdated approach"
+          },
+          {
+            "element": "The Pain",
+            "description": "The hero pain point customers feel most urgently"
+          },
+          {
+            "element": "The Solution",
+            "description": "Your brand's singular, clear answer"
+          },
+          {
+            "element": "The Contrast",
+            "description": "How your solution makes the old way feel inadequate"
+          }
         ]
       }
     ],
     "caseStudies": [
       {
-        "name": "Apple — The Second-Mover Masterclass",
+        "name": "Apple \u2014 The Second-Mover Masterclass",
         "description": "Didn't succeed by being first. Observed early players, let them introduce complexity and frustration, then entered with simplicity, integration, and design. De-positioned competitors as complicated and uninspiring."
       },
       {
-        "name": "Volvo — Owning One Idea for Decades",
+        "name": "Volvo \u2014 Owning One Idea for Decades",
         "description": "Owned safety. Didn't try to be fastest, most luxurious, or most affordable. Every decision reinforced one concept. Discipline in owning one idea creates lasting brand equity."
       }
     ],
     "b2bApplications": [
-      { "principle": "Hero Pain Point", "application": "Map the #1 frustration for each audience segment. Own the one that matters most." },
-      { "principle": "Customer as Hero", "application": "Lead with their pain, not our capabilities. Center the customer's problem everywhere." },
-      { "principle": "Competitor Weakness Mapping", "application": "Audit competitor CX — slow onboarding? Opaque pricing? Bad support? Those gaps are our strategy." },
-      { "principle": "Own One Idea", "application": "One promise per audience. Brokers: speed. Employers: certainty. TPAs: integration." },
-      { "principle": "Organizational Alignment", "application": "CX promises mean nothing if sales, onboarding, and support don't deliver the same experience." },
-      { "principle": "Second-Mover Advantage", "application": "Study what incumbents get wrong. Build the experience that makes their way feel outdated." }
+      {
+        "principle": "Hero Pain Point",
+        "application": "Map the #1 frustration for each audience segment. Own the one that matters most."
+      },
+      {
+        "principle": "Customer as Hero",
+        "application": "Lead with their pain, not our capabilities. Center the customer's problem everywhere."
+      },
+      {
+        "principle": "Competitor Weakness Mapping",
+        "application": "Audit competitor CX \u2014 slow onboarding? Opaque pricing? Bad support? Those gaps are our strategy."
+      },
+      {
+        "principle": "Own One Idea",
+        "application": "One promise per audience. Brokers: speed. Employers: certainty. TPAs: integration."
+      },
+      {
+        "principle": "Organizational Alignment",
+        "application": "CX promises mean nothing if sales, onboarding, and support don't deliver the same experience."
+      },
+      {
+        "principle": "Second-Mover Advantage",
+        "application": "Study what incumbents get wrong. Build the experience that makes their way feel outdated."
+      }
     ],
     "quotes": [
       "Brands win not by being different, but by being the clear antidote to an unresolved frustration.",
@@ -94,36 +128,41 @@
       "Audit 3-5 competitor websites and CX flows",
       "Define our \"One Idea\" per audience and pressure-test it",
       "Align website copy, sales materials, and support scripts around that idea",
-      "Create an internal alignment check — does every team reinforce the promise?"
+      "Create an internal alignment check \u2014 does every team reinforce the promise?"
     ]
   },
   {
     "id": "b2b-cx",
-    "title": "B2B Customer Experience — Deep Dive",
+    "title": "B2B Customer Experience \u2014 Deep Dive",
     "subtitle": "Multi-Source Research",
     "author": "Multi-source research",
-    "tags": ["B2B", "CX", "Strategy", "Frameworks"],
+    "tags": [
+      "B2B",
+      "CX",
+      "Strategy",
+      "Frameworks"
+    ],
     "researchedBy": "Sage",
     "dateAdded": "2026-02-15",
     "status": "notes-complete",
     "keyTakeaways": [
-      "CX is the differentiator — not price, not features",
-      "Reduce effort, don't delight — make it easy, not impressive",
-      "B2B buyers are anxious humans — address the emotional job",
-      "Self-service is expected — build for independence first",
-      "Post-purchase is where revenue lives — invest in retention",
-      "Align internally or fail externally — disconnected teams = disconnected CX"
+      "CX is the differentiator \u2014 not price, not features",
+      "Reduce effort, don't delight \u2014 make it easy, not impressive",
+      "B2B buyers are anxious humans \u2014 address the emotional job",
+      "Self-service is expected \u2014 build for independence first",
+      "Post-purchase is where revenue lives \u2014 invest in retention",
+      "Align internally or fail externally \u2014 disconnected teams = disconnected CX"
     ],
-    "overview": "B2B CX is how a business customer perceives your brand across every interaction — from first research to onboarding, ongoing service, and renewal. Unlike B2C, it involves multiple stakeholders, longer sales cycles, higher stakes, and ongoing relationships.",
+    "overview": "B2B CX is how a business customer perceives your brand across every interaction \u2014 from first research to onboarding, ongoing service, and renewal. Unlike B2C, it involves multiple stakeholders, longer sales cycles, higher stakes, and ongoing relationships.",
     "overviewQuote": "B2B buyers are still humans. They bring the same expectations from their B2C experiences into professional purchasing. The gap between B2C ease and B2B friction is where trust breaks.",
     "principles": [
       {
         "title": "Reduce Effort, Don't Delight",
-        "description": "Loyalty comes from reducing effort, not exceeding expectations. Customers don't reward you for going above and beyond — they punish you for making things hard."
+        "description": "Loyalty comes from reducing effort, not exceeding expectations. Customers don't reward you for going above and beyond \u2014 they punish you for making things hard."
       },
       {
         "title": "Self-Service Is the New Default",
-        "description": "65–81% of B2B buyers prefer to research and solve problems independently. Winning companies build better self-service tools, not bigger sales teams."
+        "description": "65\u201381% of B2B buyers prefer to research and solve problems independently. Winning companies build better self-service tools, not bigger sales teams."
       },
       {
         "title": "The Buying Committee Challenge",
@@ -135,7 +174,7 @@
       },
       {
         "title": "Internal Alignment Is Non-Negotiable",
-        "description": "Only 24% of service leaders have full-funnel visibility. The biggest CX failures aren't bad interactions — they're disconnected interactions."
+        "description": "Only 24% of service leaders have full-funnel visibility. The biggest CX failures aren't bad interactions \u2014 they're disconnected interactions."
       },
       {
         "title": "Emotional Experience Matters More Than You Think",
@@ -145,24 +184,45 @@
     "frameworks": [
       {
         "name": "The Trust Equation",
-        "description": "Trust = (Credibility + Reliability + Intimacy) ÷ Self-Orientation. Every touchpoint builds or erodes trust. The biggest killer is self-orientation — talking about your features instead of the customer's problem."
+        "description": "Trust = (Credibility + Reliability + Intimacy) \u00f7 Self-Orientation. Every touchpoint builds or erodes trust. The biggest killer is self-orientation \u2014 talking about your features instead of the customer's problem."
       },
       {
         "name": "Jobs to Be Done (JTBD) for B2B",
         "table": [
-          { "element": "Functional", "description": "\"Help me process claims faster\"" },
-          { "element": "Emotional", "description": "\"Help me feel confident I made the right choice\"" },
-          { "element": "Social", "description": "\"Help me look competent to my leadership\"" }
+          {
+            "element": "Functional",
+            "description": "\"Help me process claims faster\""
+          },
+          {
+            "element": "Emotional",
+            "description": "\"Help me feel confident I made the right choice\""
+          },
+          {
+            "element": "Social",
+            "description": "\"Help me look competent to my leadership\""
+          }
         ],
-        "note": "The emotional and social jobs are often more important than the functional job — but most B2B companies only address functional needs."
+        "note": "The emotional and social jobs are often more important than the functional job \u2014 but most B2B companies only address functional needs."
       },
       {
         "name": "Effort-Value Matrix",
         "table": [
-          { "element": "High Effort + Low Value", "description": "Frustration (churn risk)" },
-          { "element": "High Effort + High Value", "description": "Tolerance (vulnerable)" },
-          { "element": "Low Effort + Low Value", "description": "Indifference (commodity)" },
-          { "element": "Low Effort + High Value", "description": "Loyalty (the goal)" }
+          {
+            "element": "High Effort + Low Value",
+            "description": "Frustration (churn risk)"
+          },
+          {
+            "element": "High Effort + High Value",
+            "description": "Tolerance (vulnerable)"
+          },
+          {
+            "element": "Low Effort + Low Value",
+            "description": "Indifference (commodity)"
+          },
+          {
+            "element": "Low Effort + High Value",
+            "description": "Loyalty (the goal)"
+          }
         ]
       },
       {
@@ -172,23 +232,61 @@
           "Purchase anxiety: \"Is this contract fair? Am I missing something?\"",
           "Post-purchase anxiety: \"Did I make the right call? Is this working?\""
         ],
-        "note": "CX must address all three phases. Most companies only focus on pre-purchase and ignore post-purchase — where churn happens."
+        "note": "CX must address all three phases. Most companies only focus on pre-purchase and ignore post-purchase \u2014 where churn happens."
       }
     ],
     "stats": [
-      { "stat": "80%+", "description": "of organizations expect to compete mainly on CX", "source": "Gartner" },
-      { "stat": "81%", "description": "of B2B pros prefer vendors offering self-service tools", "source": "HubSpot 2024" },
-      { "stat": "57%", "description": "of B2B buyers purchased without a single sales meeting", "source": "HubSpot 2024" },
-      { "stat": "67%", "description": "of customers expect ticket resolution within 3 hours", "source": "HubSpot" },
-      { "stat": "50%", "description": "of B2B buyers say the buying experience is outdated", "source": "HubSpot 2024" }
+      {
+        "stat": "80%+",
+        "description": "of organizations expect to compete mainly on CX",
+        "source": "Gartner"
+      },
+      {
+        "stat": "81%",
+        "description": "of B2B pros prefer vendors offering self-service tools",
+        "source": "HubSpot 2024"
+      },
+      {
+        "stat": "57%",
+        "description": "of B2B buyers purchased without a single sales meeting",
+        "source": "HubSpot 2024"
+      },
+      {
+        "stat": "67%",
+        "description": "of customers expect ticket resolution within 3 hours",
+        "source": "HubSpot"
+      },
+      {
+        "stat": "50%",
+        "description": "of B2B buyers say the buying experience is outdated",
+        "source": "HubSpot 2024"
+      }
     ],
     "metrics": [
-      { "metric": "CES (Customer Effort Score)", "why": "#1 predictor of loyalty" },
-      { "metric": "NPS", "why": "Overall relationship health" },
-      { "metric": "Time to Value", "why": "Onboarding effectiveness" },
-      { "metric": "Customer Health Score", "why": "Churn prediction" },
-      { "metric": "First Contact Resolution", "why": "Support efficiency + satisfaction" },
-      { "metric": "Expansion Revenue", "why": "CX-driven growth from existing customers" }
+      {
+        "metric": "CES (Customer Effort Score)",
+        "why": "#1 predictor of loyalty"
+      },
+      {
+        "metric": "NPS",
+        "why": "Overall relationship health"
+      },
+      {
+        "metric": "Time to Value",
+        "why": "Onboarding effectiveness"
+      },
+      {
+        "metric": "Customer Health Score",
+        "why": "Churn prediction"
+      },
+      {
+        "metric": "First Contact Resolution",
+        "why": "Support efficiency + satisfaction"
+      },
+      {
+        "metric": "Expansion Revenue",
+        "why": "CX-driven growth from existing customers"
+      }
     ],
     "quotes": [
       "B2B buyers are still humans. They bring the same expectations from their B2C experiences into professional purchasing.",
@@ -197,23 +295,93 @@
       "Anxiety drives B2B decisions more than logic. Buyers choose vendors who make them feel safe and confident."
     ],
     "actionItems": [
-      "CX is the differentiator — not price, not features",
-      "Reduce effort, don't delight — make it easy, not impressive",
-      "B2B buyers are anxious humans — address the emotional job",
-      "Self-service is expected — build for independence first",
-      "Post-purchase is where revenue lives — invest in retention",
-      "Align internally or fail externally — disconnected teams = disconnected CX",
-      "Own one idea per audience — clarity beats comprehensiveness",
-      "Measure effort, not just satisfaction — CES is the strongest predictor",
-      "Speed is a CX strategy — fast everything = trust",
-      "Every interaction is a trust transaction — deposits or withdrawals"
+      "CX is the differentiator \u2014 not price, not features",
+      "Reduce effort, don't delight \u2014 make it easy, not impressive",
+      "B2B buyers are anxious humans \u2014 address the emotional job",
+      "Self-service is expected \u2014 build for independence first",
+      "Post-purchase is where revenue lives \u2014 invest in retention",
+      "Align internally or fail externally \u2014 disconnected teams = disconnected CX",
+      "Own one idea per audience \u2014 clarity beats comprehensiveness",
+      "Measure effort, not just satisfaction \u2014 CES is the strongest predictor",
+      "Speed is a CX strategy \u2014 fast everything = trust",
+      "Every interaction is a trust transaction \u2014 deposits or withdrawals"
     ],
     "recommendedReading": [
-      { "title": "The Effortless Experience — Dixon et al.", "insight": "Loyalty = reducing effort, not delighting" },
-      { "title": "The Challenger Sale — Dixon & Adamson", "insight": "Best B2B sales teaches, tailors, and takes control" },
-      { "title": "Customer Success — Mehta et al.", "insight": "Proactive success > reactive support" },
-      { "title": "Obviously Awesome — April Dunford", "insight": "Positioning from customer context, not features" },
-      { "title": "De-Positioning — Todd Irwin", "insight": "Solve the pain competitors leave unresolved" }
+      {
+        "title": "The Effortless Experience \u2014 Dixon et al.",
+        "insight": "Loyalty = reducing effort, not delighting"
+      },
+      {
+        "title": "The Challenger Sale \u2014 Dixon & Adamson",
+        "insight": "Best B2B sales teaches, tailors, and takes control"
+      },
+      {
+        "title": "Customer Success \u2014 Mehta et al.",
+        "insight": "Proactive success > reactive support"
+      },
+      {
+        "title": "Obviously Awesome \u2014 April Dunford",
+        "insight": "Positioning from customer context, not features"
+      },
+      {
+        "title": "De-Positioning \u2014 Todd Irwin",
+        "insight": "Solve the pain competitors leave unresolved"
+      }
     ]
+  },
+  {
+    "id": "digital-exhaustion",
+    "title": "Digital Exhaustion",
+    "subtitle": "Simple Rules for Reclaiming Your Life",
+    "author": "Paul Leonardi",
+    "tags": [
+      "Productivity",
+      "Digital Wellness",
+      "Management",
+      "Technology"
+    ],
+    "researchedBy": "Alec",
+    "dateAdded": "2026-02-19",
+    "status": "notes-complete",
+    "keyTakeaways": [
+      "Unplugging is not a realistic long-term solution \u2014 you need your devices for work and life",
+      "Delay responses \u2014 the urgency is mostly in your head",
+      "Match the right communication tool to each task",
+      "Recognize emotional traps: FOMO, performative availability, dopamine loops",
+      "Be intentional with attention \u2014 mental space is a finite resource"
+    ],
+    "overview": "Named Best Management Book of 2025 by the Globe and Mail. Leonardi argues that unplugging isn't realistic \u2014 if you want to keep your job, participate in society, and maintain relationships, you can't escape your devices. Instead, he maps out achievable, research-backed strategies for using technology in healthier ways without going off-grid.",
+    "overviewQuote": "Unplugging is not a long-term solution for the stress caused by technology.",
+    "principles": [
+      {
+        "title": "Delay Your Responses",
+        "description": "Not everything needs an instant reply. The sense of urgency is mostly in our heads. Waiting longer to respond reduces pressure without real consequences."
+      },
+      {
+        "title": "Match the Tool to the Task",
+        "description": "We default to the wrong communication channel constantly \u2014 Slack when it should be email, email when it should be a call. Using the right tool for each task reduces friction and cognitive load."
+      },
+      {
+        "title": "Recognize Emotional Traps",
+        "description": "FOMO, performative availability, and dopamine loops keep us locked into dysfunctional relationships with technology. Awareness is the first step to breaking free."
+      },
+      {
+        "title": "Be Intentional with Attention",
+        "description": "Consciously allocate time and energy to devices instead of letting them dictate your schedule. Mental space is a finite resource \u2014 protect it."
+      }
+    ],
+    "frameworks": [],
+    "quotes": [
+      "Unplugging is not a long-term solution for the stress caused by technology.",
+      "The sense of urgency is mostly in our heads.",
+      "Mental space is a finite resource \u2014 protect it."
+    ],
+    "actionItems": [
+      "Audit your response habits \u2014 where are you replying instantly out of habit, not necessity?",
+      "Map your communication channels to tasks \u2014 are you using the right tool for each type of work?",
+      "Identify your emotional triggers \u2014 what keeps pulling you back to your phone?",
+      "Block intentional device-free time \u2014 not to unplug but to create space for deeper work"
+    ],
+    "aboutAuthor": "Paul Leonardi, PhD is the Duca Family Professor of Technology Management at UC Santa Barbara. Consults for Google, Microsoft, YouTube, GM, McKinsey, and Fidelity. Harvard Business Review contributor and coauthor of The Digital Mindset."
   }
 ]

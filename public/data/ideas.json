@@ -46,7 +46,73 @@
     "title": "React Component Library for Agent UIs",
     "category": "React",
     "sourceDate": "2026-02-15",
-    "description": "Build a shared React component library for all agent-facing dashboards. Cards, tables, status badges, and charts \u2014 minimal and consistent design system.",
+    "description": "Build a shared React component library for all agent-facing dashboards. Cards, tables, status badges, and charts — minimal and consistent design system.",
+    "status": "spark"
+  },
+  {
+    "id": 7,
+    "title": "Real-Time Agent Monitoring Dashboard",
+    "category": "AI",
+    "sourceDate": "2026-02-19",
+    "description": "Evolve the Command Center view into a real-time agent monitoring system. Show live status (idle/working/error), current task, token usage, and cost per agent. WebSocket-powered updates.",
+    "status": "researching"
+  },
+  {
+    "id": 8,
+    "title": "Digital Wellness Tracker for Teams",
+    "category": "MSL",
+    "sourceDate": "2026-02-19",
+    "description": "Inspired by Digital Exhaustion — build a tool that helps teams track communication channel usage, response time patterns, and after-hours work. Identify burnout risk signals.",
+    "status": "spark",
+    "bookRef": "digital-exhaustion"
+  },
+  {
+    "id": 9,
+    "title": "Interactive Learning Paths Engine",
+    "category": "React",
+    "sourceDate": "2026-02-19",
+    "description": "Convert the Learning Hub into a proper React+Vite app with functional learning paths — sequential module unlocking, real lesson content, quiz engine, progress persistence, and completion certificates.",
+    "status": "poc"
+  },
+  {
+    "id": 10,
+    "title": "Mission Control Command Center (NASA Theme)",
+    "category": "React",
+    "sourceDate": "2026-02-19",
+    "description": "NASA-style dark ops theme for the boardroom view — radar sweep animation, orbital rings for Opus vs Llama agents, network connection lines, glowing pulse indicators for active agents, and a live status bar.",
+    "status": "poc"
+  },
+  {
+    "id": 11,
+    "title": "Agent-to-Agent Communication Graph",
+    "category": "AI",
+    "sourceDate": "2026-02-20",
+    "description": "Visualize inter-agent message flows in real time. Show which agents delegate to which, message volume, and bottlenecks. Could extend the Command Center with a network topology layer.",
+    "status": "spark"
+  },
+  {
+    "id": 12,
+    "title": "Intelligent Attention Management System",
+    "category": "AI",
+    "sourceDate": "2026-02-20",
+    "description": "Apply Digital Exhaustion principles to agent notifications — smart batching, urgency scoring, quiet hours enforcement. Reduce notification fatigue for Bel while ensuring nothing critical is missed.",
+    "status": "spark",
+    "bookRef": "digital-exhaustion"
+  },
+  {
+    "id": 13,
+    "title": "Agent Performance Retro Generator",
+    "category": "AI",
+    "sourceDate": "2026-02-20",
+    "description": "Auto-generate weekly retrospectives per agent — tasks completed, response quality, cost efficiency, and improvement suggestions. Feed into Mission Control as a reports section.",
+    "status": "spark"
+  },
+  {
+    "id": 14,
+    "title": "Portal Registration Flow Simulator",
+    "category": "Security",
+    "sourceDate": "2026-02-20",
+    "description": "Build an interactive simulator for enterprise portal registration/login flows (SAML, OIDC, MFA). Useful for Bel's enterprise portal work — test edge cases, visualize token flows, and debug auth issues.",
     "status": "spark"
   }
 ]
