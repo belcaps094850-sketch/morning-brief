@@ -32,5 +32,94 @@
     "startDate": "2026-02-14",
     "lastUpdated": "2026-02-15",
     "inspiredBy": "b2b-cx"
+  },
+  {
+    "id": 2,
+    "title": "Kubernetes \u2014 Container Orchestration",
+    "status": "active",
+    "progress": 15,
+    "overview": "4-week hands-on learning path covering K8s fundamentals through production patterns. Using minikube for local cluster.",
+    "researchNotes": [
+      "Week 1: Foundations \u2014 pods, nodes, namespaces, first YAML specs",
+      "Week 2: Deployments, Services, rolling updates, networking",
+      "Week 3: ConfigMaps, Secrets, PersistentVolumes, storage",
+      "Week 4: Health checks, resource limits, namespaces, Helm",
+      "11 hands-on labs designed for practical learning",
+      "Quick reference card mapping concepts to real-world analogies"
+    ],
+    "businessAngle": "Enterprise portal workloads (registration, login, claims) are perfect candidates for K8s deployment. Understanding orchestration enables better architecture decisions.",
+    "pocStatus": "Learning plan created. Week 1 labs ready to start.",
+    "resources": [
+      {
+        "title": "K8s Learning Plan",
+        "url": "/data/books.json"
+      },
+      {
+        "title": "Kubernetes.io Tutorials",
+        "url": "https://kubernetes.io/docs/tutorials/"
+      },
+      {
+        "title": "Play with K8s",
+        "url": "https://labs.play-with-k8s.com/"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "DORA Metrics & Software Delivery Performance",
+    "status": "active",
+    "progress": 80,
+    "overview": "Research into Accelerate (Forsgren, Humble, Kim) \u2014 the science behind DevOps. DORA four key metrics, 24 capabilities, Westrum organizational culture.",
+    "researchNotes": [
+      "DORA metrics: deployment frequency, lead time, change failure rate, MTTR",
+      "Speed and stability are NOT tradeoffs \u2014 elite teams have both",
+      "24 capabilities across CD, architecture, product, lean management, culture",
+      "Westrum generative culture is the strongest predictor of all performance metrics",
+      "CABs slow delivery without improving stability \u2014 peer review works better",
+      "High-performing teams 2x more likely to exceed profitability and market share goals",
+      "Burnout is preventable \u2014 caused by bad practices, not high performance"
+    ],
+    "businessAngle": "Apply DORA metrics to enterprise portal team. Measure deployment frequency and lead time for registration/login/claims features. Assess culture with Westrum typology.",
+    "pocStatus": "Book research complete. Ready to apply metrics to current team.",
+    "resources": [
+      {
+        "title": "Accelerate Book Notes",
+        "url": "/data/books.json"
+      },
+      {
+        "title": "DORA Quick Check",
+        "url": "https://dora.dev/quickcheck/"
+      },
+      {
+        "title": "State of DevOps Report",
+        "url": "https://dora.dev/research/"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Problem Analysis Frameworks",
+    "status": "active",
+    "progress": 25,
+    "overview": "Research into structured problem analysis techniques: Fishbone (Ishikawa), 5 Whys, Lotus Blossom, and Cogitate methods.",
+    "researchNotes": [
+      "Fishbone (Ishikawa): causal diagram \u2014 problem as fish head, causes as bones. Categories: People, Process, Technology, Environment, Materials, Measurement",
+      "5 Whys: iterative root cause analysis \u2014 keep asking why until you reach the actionable root cause. Created by Taiichi Ohno at Toyota",
+      "Lotus Blossom: structured ideation \u2014 central problem expands into 8 themes, each theme expands into 8 sub-ideas (64 total)",
+      "Cogitate: structured thinking framework for complex problem decomposition",
+      "All four complement each other \u2014 Fishbone for mapping causes, 5 Whys for drilling deep, Lotus Blossom for expanding solutions"
+    ],
+    "businessAngle": "Apply to enterprise portal incidents and production issues. Train team on structured root cause analysis instead of ad-hoc troubleshooting.",
+    "pocStatus": "Research in progress.",
+    "resources": [
+      {
+        "title": "Ishikawa Diagram (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Ishikawa_diagram"
+      },
+      {
+        "title": "Five Whys (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Five_whys"
+      }
+    ]
   }
 ]
