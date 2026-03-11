@@ -9,7 +9,7 @@ export default function App() {
   return (
     <div className="layout">
       <aside className="sidebar">
-        <h1>📚 Bel's Learning Lab</h1>
+        <h1>📚 Alec Lab</h1>
         <div className="subtitle">Daily digest & ideas</div>
         <nav>
           <NavLink to="/" end>🏠 Morning Brief</NavLink>

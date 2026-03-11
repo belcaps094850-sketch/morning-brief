@@ -13,22 +13,22 @@
     "dateAdded": "2026-02-15",
     "status": "notes-complete",
     "keyTakeaways": [
-      "Traditional positioning no longer works in saturated markets — de-position competitors instead",
+      "Traditional positioning no longer works in saturated markets \u2014 de-position competitors instead",
       "Find the single 'Hero Pain Point' customers care most about",
-      "Own one idea in the customer's mind — focus creates power",
+      "Own one idea in the customer's mind \u2014 focus creates power",
       "Make the customer the hero, not your brand",
       "Align the entire organization around the one idea"
     ],
-    "overview": "Traditional brand positioning — trying to differentiate by claiming uniqueness — no longer works in saturated markets. Instead, brands should de-position competitors by identifying real customer pain points that rivals can't or won't solve, then aligning the entire organization around eliminating that pain.",
-    "overviewQuote": "Differentiation alone is not enough. Brands win not by shouting louder, but by solving the one problem competitors leave unresolved — making alternatives feel unnecessary.",
+    "overview": "Traditional brand positioning \u2014 trying to differentiate by claiming uniqueness \u2014 no longer works in saturated markets. Instead, brands should de-position competitors by identifying real customer pain points that rivals can't or won't solve, then aligning the entire organization around eliminating that pain.",
+    "overviewQuote": "Differentiation alone is not enough. Brands win not by shouting louder, but by solving the one problem competitors leave unresolved \u2014 making alternatives feel unnecessary.",
     "principles": [
       {
         "title": "Abandon the Search for \"White Space\"",
-        "description": "Every category is already occupied. Instead of inventing a new lane, redefine existing space by reframing how customers see current options. Identify a clear \"enemy\" — not a competitor, but a problem or outdated way of doing things."
+        "description": "Every category is already occupied. Instead of inventing a new lane, redefine existing space by reframing how customers see current options. Identify a clear \"enemy\" \u2014 not a competitor, but a problem or outdated way of doing things."
       },
       {
         "title": "Find the \"Hero Pain Point\"",
-        "description": "Not one of many problems — the single most emotionally charged and practically urgent issue customers want solved. Focus creates power. Trying to address too many needs weakens impact."
+        "description": "Not one of many problems \u2014 the single most emotionally charged and practically urgent issue customers want solved. Focus creates power. Trying to address too many needs weakens impact."
       },
       {
         "title": "Make the Customer the Hero",
@@ -36,11 +36,11 @@
       },
       {
         "title": "Study Competitors to Expose What They Can't Fix",
-        "description": "Study rivals deeply — not to copy, but to uncover what they cannot or will not fix. Every organization carries limitations. Those weaknesses are your strategic openings."
+        "description": "Study rivals deeply \u2014 not to copy, but to uncover what they cannot or will not fix. Every organization carries limitations. Those weaknesses are your strategic openings."
       },
       {
         "title": "Own One Idea in the Customer's Mind",
-        "description": "Brands that try to stand for too many things end up standing for nothing. One strong concept creates a mental shortcut — easy to understand, easy to remember."
+        "description": "Brands that try to stand for too many things end up standing for nothing. One strong concept creates a mental shortcut \u2014 easy to understand, easy to remember."
       },
       {
         "title": "Integrate Across the Entire Organization",
@@ -51,12 +51,12 @@
       {
         "name": "The De-Positioning Process",
         "steps": [
-          "Research & Observe — Deep customer research + competitor analysis",
-          "Identify the Hero Pain Point — The single most urgent, unresolved customer frustration",
-          "Map Competitor Weaknesses — Where do rivals fail to solve this pain?",
-          "Define Your One Idea — The clear, ownable solution that makes alternatives feel outdated",
-          "Align the Organization — Every touchpoint reinforces the one idea",
-          "Execute with Discipline — Say no to anything that dilutes focus"
+          "Research & Observe \u2014 Deep customer research + competitor analysis",
+          "Identify the Hero Pain Point \u2014 The single most urgent, unresolved customer frustration",
+          "Map Competitor Weaknesses \u2014 Where do rivals fail to solve this pain?",
+          "Define Your One Idea \u2014 The clear, ownable solution that makes alternatives feel outdated",
+          "Align the Organization \u2014 Every touchpoint reinforces the one idea",
+          "Execute with Discipline \u2014 Say no to anything that dilutes focus"
         ]
       },
       {
@@ -64,7 +64,7 @@
         "table": [
           {
             "element": "The Enemy",
-            "description": "Not a competitor — a problem, inefficiency, or outdated approach"
+            "description": "Not a competitor \u2014 a problem, inefficiency, or outdated approach"
           },
           {
             "element": "The Pain",
@@ -83,11 +83,11 @@
     ],
     "caseStudies": [
       {
-        "name": "Apple — The Second-Mover Masterclass",
+        "name": "Apple \u2014 The Second-Mover Masterclass",
         "description": "Didn't succeed by being first. Observed early players, let them introduce complexity and frustration, then entered with simplicity, integration, and design. De-positioned competitors as complicated and uninspiring."
       },
       {
-        "name": "Volvo — Owning One Idea for Decades",
+        "name": "Volvo \u2014 Owning One Idea for Decades",
         "description": "Owned safety. Didn't try to be fastest, most luxurious, or most affordable. Every decision reinforced one concept. Discipline in owning one idea creates lasting brand equity."
       }
     ],
@@ -102,7 +102,7 @@
       },
       {
         "principle": "Competitor Weakness Mapping",
-        "application": "Audit competitor CX — slow onboarding? Opaque pricing? Bad support? Those gaps are our strategy."
+        "application": "Audit competitor CX \u2014 slow onboarding? Opaque pricing? Bad support? Those gaps are our strategy."
       },
       {
         "principle": "Own One Idea",
@@ -128,12 +128,12 @@
       "Audit 3-5 competitor websites and CX flows",
       "Define our \"One Idea\" per audience and pressure-test it",
       "Align website copy, sales materials, and support scripts around that idea",
-      "Create an internal alignment check — does every team reinforce the promise?"
+      "Create an internal alignment check \u2014 does every team reinforce the promise?"
     ]
   },
   {
     "id": "b2b-cx",
-    "title": "B2B Customer Experience — Deep Dive",
+    "title": "B2B Customer Experience \u2014 Deep Dive",
     "subtitle": "Multi-Source Research",
     "author": "Multi-source research",
     "tags": [
@@ -146,23 +146,23 @@
     "dateAdded": "2026-02-15",
     "status": "notes-complete",
     "keyTakeaways": [
-      "CX is the differentiator — not price, not features",
-      "Reduce effort, don't delight — make it easy, not impressive",
-      "B2B buyers are anxious humans — address the emotional job",
-      "Self-service is expected — build for independence first",
-      "Post-purchase is where revenue lives — invest in retention",
-      "Align internally or fail externally — disconnected teams = disconnected CX"
+      "CX is the differentiator \u2014 not price, not features",
+      "Reduce effort, don't delight \u2014 make it easy, not impressive",
+      "B2B buyers are anxious humans \u2014 address the emotional job",
+      "Self-service is expected \u2014 build for independence first",
+      "Post-purchase is where revenue lives \u2014 invest in retention",
+      "Align internally or fail externally \u2014 disconnected teams = disconnected CX"
     ],
-    "overview": "B2B CX is how a business customer perceives your brand across every interaction — from first research to onboarding, ongoing service, and renewal. Unlike B2C, it involves multiple stakeholders, longer sales cycles, higher stakes, and ongoing relationships.",
+    "overview": "B2B CX is how a business customer perceives your brand across every interaction \u2014 from first research to onboarding, ongoing service, and renewal. Unlike B2C, it involves multiple stakeholders, longer sales cycles, higher stakes, and ongoing relationships.",
     "overviewQuote": "B2B buyers are still humans. They bring the same expectations from their B2C experiences into professional purchasing. The gap between B2C ease and B2B friction is where trust breaks.",
     "principles": [
       {
         "title": "Reduce Effort, Don't Delight",
-        "description": "Loyalty comes from reducing effort, not exceeding expectations. Customers don't reward you for going above and beyond — they punish you for making things hard."
+        "description": "Loyalty comes from reducing effort, not exceeding expectations. Customers don't reward you for going above and beyond \u2014 they punish you for making things hard."
       },
       {
         "title": "Self-Service Is the New Default",
-        "description": "65–81% of B2B buyers prefer to research and solve problems independently. Winning companies build better self-service tools, not bigger sales teams."
+        "description": "65\u201381% of B2B buyers prefer to research and solve problems independently. Winning companies build better self-service tools, not bigger sales teams."
       },
       {
         "title": "The Buying Committee Challenge",
@@ -174,7 +174,7 @@
       },
       {
         "title": "Internal Alignment Is Non-Negotiable",
-        "description": "Only 24% of service leaders have full-funnel visibility. The biggest CX failures aren't bad interactions — they're disconnected interactions."
+        "description": "Only 24% of service leaders have full-funnel visibility. The biggest CX failures aren't bad interactions \u2014 they're disconnected interactions."
       },
       {
         "title": "Emotional Experience Matters More Than You Think",
@@ -184,7 +184,7 @@
     "frameworks": [
       {
         "name": "The Trust Equation",
-        "description": "Trust = (Credibility + Reliability + Intimacy) ÷ Self-Orientation. Every touchpoint builds or erodes trust. The biggest killer is self-orientation — talking about your features instead of the customer's problem."
+        "description": "Trust = (Credibility + Reliability + Intimacy) \u00f7 Self-Orientation. Every touchpoint builds or erodes trust. The biggest killer is self-orientation \u2014 talking about your features instead of the customer's problem."
       },
       {
         "name": "Jobs to Be Done (JTBD) for B2B",
@@ -202,7 +202,7 @@
             "description": "\"Help me look competent to my leadership\""
           }
         ],
-        "note": "The emotional and social jobs are often more important than the functional job — but most B2B companies only address functional needs."
+        "note": "The emotional and social jobs are often more important than the functional job \u2014 but most B2B companies only address functional needs."
       },
       {
         "name": "Effort-Value Matrix",
@@ -232,7 +232,7 @@
           "Purchase anxiety: \"Is this contract fair? Am I missing something?\"",
           "Post-purchase anxiety: \"Did I make the right call? Is this working?\""
         ],
-        "note": "CX must address all three phases. Most companies only focus on pre-purchase and ignore post-purchase — where churn happens."
+        "note": "CX must address all three phases. Most companies only focus on pre-purchase and ignore post-purchase \u2014 where churn happens."
       }
     ],
     "stats": [
@@ -295,36 +295,36 @@
       "Anxiety drives B2B decisions more than logic. Buyers choose vendors who make them feel safe and confident."
     ],
     "actionItems": [
-      "CX is the differentiator — not price, not features",
-      "Reduce effort, don't delight — make it easy, not impressive",
-      "B2B buyers are anxious humans — address the emotional job",
-      "Self-service is expected — build for independence first",
-      "Post-purchase is where revenue lives — invest in retention",
-      "Align internally or fail externally — disconnected teams = disconnected CX",
-      "Own one idea per audience — clarity beats comprehensiveness",
-      "Measure effort, not just satisfaction — CES is the strongest predictor",
-      "Speed is a CX strategy — fast everything = trust",
-      "Every interaction is a trust transaction — deposits or withdrawals"
+      "CX is the differentiator \u2014 not price, not features",
+      "Reduce effort, don't delight \u2014 make it easy, not impressive",
+      "B2B buyers are anxious humans \u2014 address the emotional job",
+      "Self-service is expected \u2014 build for independence first",
+      "Post-purchase is where revenue lives \u2014 invest in retention",
+      "Align internally or fail externally \u2014 disconnected teams = disconnected CX",
+      "Own one idea per audience \u2014 clarity beats comprehensiveness",
+      "Measure effort, not just satisfaction \u2014 CES is the strongest predictor",
+      "Speed is a CX strategy \u2014 fast everything = trust",
+      "Every interaction is a trust transaction \u2014 deposits or withdrawals"
     ],
     "recommendedReading": [
       {
-        "title": "The Effortless Experience — Dixon et al.",
+        "title": "The Effortless Experience \u2014 Dixon et al.",
         "insight": "Loyalty = reducing effort, not delighting"
       },
       {
-        "title": "The Challenger Sale — Dixon & Adamson",
+        "title": "The Challenger Sale \u2014 Dixon & Adamson",
         "insight": "Best B2B sales teaches, tailors, and takes control"
       },
       {
-        "title": "Customer Success — Mehta et al.",
+        "title": "Customer Success \u2014 Mehta et al.",
         "insight": "Proactive success > reactive support"
       },
       {
-        "title": "Obviously Awesome — April Dunford",
+        "title": "Obviously Awesome \u2014 April Dunford",
         "insight": "Positioning from customer context, not features"
       },
       {
-        "title": "De-Positioning — Todd Irwin",
+        "title": "De-Positioning \u2014 Todd Irwin",
         "insight": "Solve the pain competitors leave unresolved"
       }
     ]
@@ -344,13 +344,13 @@
     "dateAdded": "2026-02-19",
     "status": "notes-complete",
     "keyTakeaways": [
-      "Unplugging is not a realistic long-term solution — you need your devices for work and life",
-      "Delay responses — the urgency is mostly in your head",
+      "Unplugging is not a realistic long-term solution \u2014 you need your devices for work and life",
+      "Delay responses \u2014 the urgency is mostly in your head",
       "Match the right communication tool to each task",
       "Recognize emotional traps: FOMO, performative availability, dopamine loops",
-      "Be intentional with attention — mental space is a finite resource"
+      "Be intentional with attention \u2014 mental space is a finite resource"
     ],
-    "overview": "Named Best Management Book of 2025 by the Globe and Mail. Leonardi argues that unplugging isn't realistic — if you want to keep your job, participate in society, and maintain relationships, you can't escape your devices. Instead, he maps out achievable, research-backed strategies for using technology in healthier ways without going off-grid.",
+    "overview": "Named Best Management Book of 2025 by the Globe and Mail. Leonardi argues that unplugging isn't realistic \u2014 if you want to keep your job, participate in society, and maintain relationships, you can't escape your devices. Instead, he maps out achievable, research-backed strategies for using technology in healthier ways without going off-grid.",
     "overviewQuote": "Unplugging is not a long-term solution for the stress caused by technology.",
     "principles": [
       {
@@ -359,7 +359,7 @@
       },
       {
         "title": "Match the Tool to the Task",
-        "description": "We default to the wrong communication channel constantly — Slack when it should be email, email when it should be a call. Using the right tool for each task reduces friction and cognitive load."
+        "description": "We default to the wrong communication channel constantly \u2014 Slack when it should be email, email when it should be a call. Using the right tool for each task reduces friction and cognitive load."
       },
       {
         "title": "Recognize Emotional Traps",
@@ -367,20 +367,20 @@
       },
       {
         "title": "Be Intentional with Attention",
-        "description": "Consciously allocate time and energy to devices instead of letting them dictate your schedule. Mental space is a finite resource — protect it."
+        "description": "Consciously allocate time and energy to devices instead of letting them dictate your schedule. Mental space is a finite resource \u2014 protect it."
       }
     ],
     "frameworks": [],
     "quotes": [
       "Unplugging is not a long-term solution for the stress caused by technology.",
       "The sense of urgency is mostly in our heads.",
-      "Mental space is a finite resource — protect it."
+      "Mental space is a finite resource \u2014 protect it."
     ],
     "actionItems": [
-      "Audit your response habits — where are you replying instantly out of habit, not necessity?",
-      "Map your communication channels to tasks — are you using the right tool for each type of work?",
-      "Identify your emotional triggers — what keeps pulling you back to your phone?",
-      "Block intentional device-free time — not to unplug but to create space for deeper work"
+      "Audit your response habits \u2014 where are you replying instantly out of habit, not necessity?",
+      "Map your communication channels to tasks \u2014 are you using the right tool for each type of work?",
+      "Identify your emotional triggers \u2014 what keeps pulling you back to your phone?",
+      "Block intentional device-free time \u2014 not to unplug but to create space for deeper work"
     ],
     "aboutAuthor": "Paul Leonardi, PhD is the Duca Family Professor of Technology Management at UC Santa Barbara. Consults for Google, Microsoft, YouTube, GM, McKinsey, and Fidelity. Harvard Business Review contributor and coauthor of The Digital Mindset."
   },
@@ -399,9 +399,9 @@
     "dateAdded": "2026-02-20",
     "status": "notes-complete",
     "keyTakeaways": [
-      "IT work is manufacturing work — the Three Ways apply",
+      "IT work is manufacturing work \u2014 the Three Ways apply",
       "Unplanned work is the silent killer of planned work",
-      "Constraints determine throughput — find and protect them",
+      "Constraints determine throughput \u2014 find and protect them",
       "Tightly coupled systems create cascading failures",
       "Technical debt compounds just like financial debt"
     ],
@@ -422,7 +422,7 @@
       },
       {
         "title": "The Four Types of Work",
-        "description": "Business projects, internal IT projects, changes, and unplanned work. Unplanned work is the most destructive — it steals capacity from everything else."
+        "description": "Business projects, internal IT projects, changes, and unplanned work. Unplanned work is the most destructive \u2014 it steals capacity from everything else."
       },
       {
         "title": "Theory of Constraints in IT",
@@ -433,9 +433,9 @@
       {
         "name": "The Three Ways",
         "steps": [
-          "Flow — Left to right, fast delivery of value",
-          "Feedback — Right to left, fast detection of problems",
-          "Continual Learning — Culture of experimentation and improvement"
+          "Flow \u2014 Left to right, fast delivery of value",
+          "Feedback \u2014 Right to left, fast detection of problems",
+          "Continual Learning \u2014 Culture of experimentation and improvement"
         ]
       },
       {
@@ -455,7 +455,7 @@
           },
           {
             "element": "Unplanned Work",
-            "description": "Recovery, firefighting — the silent killer"
+            "description": "Recovery, firefighting \u2014 the silent killer"
           }
         ]
       }
@@ -468,7 +468,7 @@
       "In ten deploys, I bet you'll be mass-deploying faster than the SWAT team."
     ],
     "actionItems": [
-      "Make all work visible — use a kanban board for IT operations",
+      "Make all work visible \u2014 use a kanban board for IT operations",
       "Track and measure unplanned work as a percentage of total capacity",
       "Identify your constraint (bottleneck) and protect it ruthlessly",
       "Reduce batch sizes to enable faster flow and feedback",
@@ -494,7 +494,7 @@
       "The Five Ideals guide modern software organizations",
       "Complexity and bureaucracy kill innovation faster than competition",
       "Psychological safety enables teams to take smart risks",
-      "Context over control — push decisions to those closest to the work"
+      "Context over control \u2014 push decisions to those closest to the work"
     ],
     "overview": "The companion novel to The Phoenix Project, told from the developer's perspective. Maxine, a senior developer, is exiled to the Phoenix Project after a payroll outage she didn't cause. She discovers the Five Ideals and builds a rebellion to transform how Parts Unlimited builds software.",
     "overviewQuote": "The First Ideal is about locality and simplicity. We need to design things so that we have locality in our systems and the organizations that build them.",
@@ -524,26 +524,26 @@
       {
         "name": "The Five Ideals",
         "steps": [
-          "Locality and Simplicity — minimize dependencies and coordination costs",
-          "Focus, Flow, and Joy — maximize developer productivity and satisfaction",
-          "Improvement of Daily Work — invest in tooling, automation, debt paydown",
-          "Psychological Safety — create environments where it's safe to fail",
-          "Customer Focus — align all work to customer value"
+          "Locality and Simplicity \u2014 minimize dependencies and coordination costs",
+          "Focus, Flow, and Joy \u2014 maximize developer productivity and satisfaction",
+          "Improvement of Daily Work \u2014 invest in tooling, automation, debt paydown",
+          "Psychological Safety \u2014 create environments where it's safe to fail",
+          "Customer Focus \u2014 align all work to customer value"
         ]
       }
     ],
     "quotes": [
       "Complexity is the silent killer of great software.",
-      "The opposite of a good process is no process — it's a bad process that no one follows.",
+      "The opposite of a good process is no process \u2014 it's a bad process that no one follows.",
       "Developer productivity is one of the largest strategic advantages a company can have.",
       "When developers can't be productive, the business can't be productive."
     ],
     "actionItems": [
-      "Measure developer experience — how long to onboard, build, test, deploy?",
+      "Measure developer experience \u2014 how long to onboard, build, test, deploy?",
       "Identify and eliminate the top 3 sources of developer toil",
       "Create 20% time or innovation time for improvement work",
       "Run a psychological safety assessment for your team",
-      "Map your dependency graph — where are coordination costs highest?"
+      "Map your dependency graph \u2014 where are coordination costs highest?"
     ]
   },
   {
@@ -571,7 +571,7 @@
     "overviewQuote": "High performers deploy 208x more frequently than low performers, with 106x faster lead times, 2,604x faster recovery, and 7x lower change failure rate.",
     "principles": [
       {
-        "title": "Start with Version Control — Everything",
+        "title": "Start with Version Control \u2014 Everything",
         "description": "Not just code. Infrastructure, configs, database schemas, tests, deployment scripts. If it's not in version control, it doesn't exist."
       },
       {
@@ -595,10 +595,10 @@
       "Instead of a big bang deployment, make small, incremental changes that are easy to reverse."
     ],
     "actionItems": [
-      "Put everything in version control — infrastructure, configs, scripts",
+      "Put everything in version control \u2014 infrastructure, configs, scripts",
       "Automate your deployment pipeline end-to-end",
       "Add application-level telemetry and create health dashboards",
-      "Integrate security scanning into CI — SAST, DAST, dependency checks",
+      "Integrate security scanning into CI \u2014 SAST, DAST, dependency checks",
       "Measure the four key metrics: deployment frequency, lead time, MTTR, change failure rate"
     ]
   },
@@ -617,7 +617,7 @@
     "dateAdded": "2026-02-20",
     "status": "notes-complete",
     "keyTakeaways": [
-      "Software delivery performance drives organizational performance — it's measurable and provable",
+      "Software delivery performance drives organizational performance \u2014 it's measurable and provable",
       "Four Key Metrics: deployment frequency, lead time, MTTR, change failure rate",
       "Culture (Westrum typology) predicts both delivery and organizational performance",
       "Continuous delivery practices are statistically proven to improve outcomes",
@@ -686,15 +686,15 @@
     "quotes": [
       "There is no tradeoff between speed and stability.",
       "Burnout can be predicted by deployment pain, percentage of time on rework, and whether the org invests in tooling.",
-      "Culture is not something you are — it's something you do.",
+      "Culture is not something you are \u2014 it's something you do.",
       "Continuous delivery makes your software delivery process a competitive advantage."
     ],
     "actionItems": [
-      "Measure your four key metrics today — know your baseline",
+      "Measure your four key metrics today \u2014 know your baseline",
       "Assess your team's Westrum culture type honestly",
-      "Invest in automated testing — it's the #1 predictor of continuous delivery",
-      "Reduce deployment pain — make releases boring",
-      "Track burnout indicators — rework percentage, deployment anxiety, manual toil"
+      "Invest in automated testing \u2014 it's the #1 predictor of continuous delivery",
+      "Reduce deployment pain \u2014 make releases boring",
+      "Track burnout indicators \u2014 rework percentage, deployment anxiety, manual toil"
     ]
   },
   {
@@ -712,7 +712,7 @@
     "dateAdded": "2026-02-20",
     "status": "notes-complete",
     "keyTakeaways": [
-      "Leaders wire organizations — they create the conditions for success or failure",
+      "Leaders wire organizations \u2014 they create the conditions for success or failure",
       "Three mechanisms: Slowification, Simplification, Amplification",
       "Move problem-solving from the danger zone to the winning zone",
       "Modularize to create independence of action",
@@ -740,11 +740,11 @@
         "table": [
           {
             "element": "Danger Zone",
-            "description": "Problem-solving during performance — reactive, high-stakes, costly mistakes"
+            "description": "Problem-solving during performance \u2014 reactive, high-stakes, costly mistakes"
           },
           {
             "element": "Winning Zone",
-            "description": "Problem-solving during planning — proactive, low-stakes, cheap experiments"
+            "description": "Problem-solving during planning \u2014 proactive, low-stakes, cheap experiments"
           }
         ]
       }
@@ -756,10 +756,10 @@
       "Small problems, left unamplified, become big problems."
     ],
     "actionItems": [
-      "Identify where your teams are solving problems in the danger zone — how can you slowify?",
-      "Map your system's coupling — where does a change in one area cascade to others?",
-      "Create amplification mechanisms — dashboards, alerts, postmortems, skip-levels",
-      "Practice before performance — use staging, simulations, tabletop exercises",
+      "Identify where your teams are solving problems in the danger zone \u2014 how can you slowify?",
+      "Map your system's coupling \u2014 where does a change in one area cascade to others?",
+      "Create amplification mechanisms \u2014 dashboards, alerts, postmortems, skip-levels",
+      "Practice before performance \u2014 use staging, simulations, tabletop exercises",
       "Ask: are your leaders wiring the organization or just fighting fires?"
     ]
   },
@@ -781,7 +781,7 @@
       "Four fundamental team types: Stream-aligned, Platform, Enabling, Complicated-subsystem",
       "Three interaction modes: Collaboration, X-as-a-Service, Facilitating",
       "Team cognitive load is the #1 constraint on software delivery",
-      "Conway's Law is real — org structure = system architecture",
+      "Conway's Law is real \u2014 org structure = system architecture",
       "Evolve team structures deliberately as systems grow"
     ],
     "overview": "A practical model for organizing technology teams for fast flow of value. Skelton and Pais define four fundamental team types and three interaction modes, providing a clear vocabulary for designing organizations that produce the architectures you actually want.",
@@ -831,15 +831,15 @@
         "table": [
           {
             "element": "Collaboration",
-            "description": "Two teams working closely together — high bandwidth, time-limited"
+            "description": "Two teams working closely together \u2014 high bandwidth, time-limited"
           },
           {
             "element": "X-as-a-Service",
-            "description": "One team consumes another's output via API or platform — low coupling"
+            "description": "One team consumes another's output via API or platform \u2014 low coupling"
           },
           {
             "element": "Facilitating",
-            "description": "One team helps another learn or adopt new skills — temporary by nature"
+            "description": "One team helps another learn or adopt new skills \u2014 temporary by nature"
           }
         ]
       }
@@ -848,13 +848,13 @@
       "Team cognitive load is the most important constraint in software delivery.",
       "If the architecture doesn't fit the team structure, change the team structure.",
       "A platform exists to serve the teams that build and run software for end users.",
-      "Collaboration is expensive — use it deliberately and time-box it."
+      "Collaboration is expensive \u2014 use it deliberately and time-box it."
     ],
     "actionItems": [
-      "Classify your current teams into the four types — are there mismatches?",
-      "Assess cognitive load per team — who's overloaded?",
+      "Classify your current teams into the four types \u2014 are there mismatches?",
+      "Assess cognitive load per team \u2014 who's overloaded?",
       "Define explicit interaction modes between teams",
-      "Use Conway's Law deliberately — design teams to get the architecture you want",
+      "Use Conway's Law deliberately \u2014 design teams to get the architecture you want",
       "Review team boundaries every 6-12 months as systems evolve"
     ]
   },
@@ -880,14 +880,14 @@
     "foreword": "Dario Amodei, CEO and Cofounder of Anthropic",
     "keyTakeaways": [
       "Vibe coding transforms complex programming into fluid conversations with GenAI",
-      "Developers shift from writing code to directing AI agents — intent and flow over syntax",
+      "Developers shift from writing code to directing AI agents \u2014 intent and flow over syntax",
       "One person with AI can achieve what previously required a team",
       "Build confidently in languages and frameworks you have never used before",
       "Quality, security, and architecture judgment remain human responsibilities",
-      "AI coding is not just faster — it fundamentally changes how we approach development",
-      "Patience and iteration matter — AI does not get it right in one shot"
+      "AI coding is not just faster \u2014 it fundamentally changes how we approach development",
+      "Patience and iteration matter \u2014 AI does not get it right in one shot"
     ],
-    "overview": "By Gene Kim (The Phoenix Project, The DevOps Handbook) and Steve Yegge (Google, Amazon, Sourcegraph), with a foreword by Dario Amodei. Explores how vibe coding — using GenAI to generate code from natural language — is transforming software development. Covers practical strategies from small projects to enterprise-scale, with real-world case studies of developers achieving dramatic productivity gains while maintaining engineering excellence.",
+    "overview": "By Gene Kim (The Phoenix Project, The DevOps Handbook) and Steve Yegge (Google, Amazon, Sourcegraph), with a foreword by Dario Amodei. Explores how vibe coding \u2014 using GenAI to generate code from natural language \u2014 is transforming software development. Covers practical strategies from small projects to enterprise-scale, with real-world case studies of developers achieving dramatic productivity gains while maintaining engineering excellence.",
     "overviewQuote": "Science fiction is now reality. Programmers no longer need to toil over code and syntax. They can now describe what they want and watch it materialize instantly.",
     "principles": [
       {
@@ -895,20 +895,20 @@
         "description": "Developers shift from manual coding to directing AI coding agents. The skill becomes knowing what to ask for, how to evaluate results, and when to intervene."
       },
       {
-        "title": "FAAFO — Transformative Potential at Scale",
+        "title": "FAAFO \u2014 Transformative Potential at Scale",
         "description": "Real-world case studies show people achieving extraordinary results: a developer built 2,600 lines of Python with docs and CLI flags in 2 hours while multitasking. A person who had not coded in 20 years built working tools."
       },
       {
         "title": "Lowered Barriers, Raised Stakes",
-        "description": "More people can create software than ever before, but the responsibility for quality, security, and architecture becomes more critical — not less."
+        "description": "More people can create software than ever before, but the responsibility for quality, security, and architecture becomes more critical \u2014 not less."
       },
       {
         "title": "Patience and Iteration",
-        "description": "AI does not produce perfect code in one pass. Success comes from iterating, guiding, and refining — treating AI as a collaborator, not a magic wand."
+        "description": "AI does not produce perfect code in one pass. Success comes from iterating, guiding, and refining \u2014 treating AI as a collaborator, not a magic wand."
       },
       {
         "title": "Co-Creation Over Automation",
-        "description": "The best results come from mastering the art of co-creating with your AI companion — it is a conversation, not a command."
+        "description": "The best results come from mastering the art of co-creating with your AI companion \u2014 it is a conversation, not a command."
       },
       {
         "title": "Break Free From Traditional Constraints",
@@ -918,19 +918,19 @@
     "frameworks": [
       {
         "title": "The Vibe Coding Workflow",
-        "description": "Describe intent → AI generates code → review and iterate → refine until production-ready. Focus on what you want, not how to write it."
+        "description": "Describe intent \u2192 AI generates code \u2192 review and iterate \u2192 refine until production-ready. Focus on what you want, not how to write it."
       }
     ],
     "quotes": [
       "Science fiction is now reality. Programmers no longer need to toil over code and syntax. They can now describe what they want and watch it materialize instantly.",
       "2600 lines of Python with documentation and proper CLI flags. It cost me $50 in Claude Code tokens, but I am not complaining!",
-      "You ain't seen nothing yet — give me 15 minutes, and this thing will have an interactive mode with GNU readline support.",
+      "You ain't seen nothing yet \u2014 give me 15 minutes, and this thing will have an interactive mode with GNU readline support.",
       "Don't get left behind in the biggest transformation our industry has seen since the internet revolution."
     ],
     "actionItems": [
       "Experiment with AI coding tools (Claude Code, Codex, Copilot) in your daily workflow",
-      "Practice prompt engineering for code generation — specificity and iteration matter",
-      "Build review and testing skills — AI-generated code still needs human judgment",
+      "Practice prompt engineering for code generation \u2014 specificity and iteration matter",
+      "Build review and testing skills \u2014 AI-generated code still needs human judgment",
       "Try building something in a language or framework you have never used",
       "Start small: automate a tedious task with AI-assisted coding to build confidence",
       "Shift mindset from \"writing code\" to \"directing and reviewing AI output\""
@@ -951,22 +951,22 @@
     "dateAdded": "2026-03-08",
     "status": "notes-complete",
     "keyTakeaways": [
-      "Lateral thinking complements logical thinking — you need both to innovate",
-      "Challenge every assumption — most breakthroughs come from questioning what everyone accepts",
-      "Separate ideation from evaluation — mixing them kills creativity",
-      "Build a culture where wild ideas are safe — psychological safety enables innovation",
-      "Leaders don't need to be the most creative — they need to create conditions for creativity"
+      "Lateral thinking complements logical thinking \u2014 you need both to innovate",
+      "Challenge every assumption \u2014 most breakthroughs come from questioning what everyone accepts",
+      "Separate ideation from evaluation \u2014 mixing them kills creativity",
+      "Build a culture where wild ideas are safe \u2014 psychological safety enables innovation",
+      "Leaders don't need to be the most creative \u2014 they need to create conditions for creativity"
     ],
     "overview": "Paul Sloane's practical guide to applying lateral thinking in leadership and organizational innovation. Unlike academic treatments, it gives leaders specific techniques, exercises, and cultural strategies to break free from conventional thinking patterns. The core thesis: leaders who rely solely on logical thinking will be outmaneuvered by those who combine it with lateral thinking.",
     "overviewQuote": "The conventional thinker tries to solve the problem. The lateral thinker tries to redefine the problem.",
     "principles": [
       {
         "title": "Challenge Assumptions",
-        "description": "Every process and product is built on assumptions — many outdated. The lateral thinker's first move is to identify and question these. Ask: What if the opposite were true?"
+        "description": "Every process and product is built on assumptions \u2014 many outdated. The lateral thinker's first move is to identify and question these. Ask: What if the opposite were true?"
       },
       {
         "title": "Ask What If Questions",
-        "description": "Provocative what-if questions force the brain out of default patterns. They're deliberately extreme — not meant to be practical themselves, but to spark practical ideas."
+        "description": "Provocative what-if questions force the brain out of default patterns. They're deliberately extreme \u2014 not meant to be practical themselves, but to spark practical ideas."
       },
       {
         "title": "Combine Unrelated Ideas",
@@ -974,7 +974,7 @@
       },
       {
         "title": "Change Your Point of View",
-        "description": "Deliberately adopt someone else's perspective — a customer, competitor, child, or outsider. Each viewpoint reveals different aspects of the problem."
+        "description": "Deliberately adopt someone else's perspective \u2014 a customer, competitor, child, or outsider. Each viewpoint reveals different aspects of the problem."
       }
     ],
     "frameworks": [
@@ -983,23 +983,23 @@
         "table": [
           {
             "element": "1. Define",
-            "description": "Restate the problem multiple ways — is this the real problem or a symptom?"
+            "description": "Restate the problem multiple ways \u2014 is this the real problem or a symptom?"
           },
           {
             "element": "2. Analyze Assumptions",
-            "description": "List and challenge every assumption — what are we taking for granted?"
+            "description": "List and challenge every assumption \u2014 what are we taking for granted?"
           },
           {
             "element": "3. Generate",
-            "description": "Use lateral techniques to create many ideas — what's the most unusual solution?"
+            "description": "Use lateral techniques to create many ideas \u2014 what's the most unusual solution?"
           },
           {
             "element": "4. Select",
-            "description": "Evaluate ideas separately from generation — which have the most potential?"
+            "description": "Evaluate ideas separately from generation \u2014 which have the most potential?"
           },
           {
             "element": "5. Implement",
-            "description": "Prototype, test, iterate — how can we test this cheaply and quickly?"
+            "description": "Prototype, test, iterate \u2014 how can we test this cheaply and quickly?"
           }
         ]
       },
@@ -1057,13 +1057,111 @@
       "Don't try to improve the old system. Replace it with something different."
     ],
     "actionItems": [
-      "Start every meeting with a What If question — train lateral thinking as a habit",
+      "Start every meeting with a What If question \u2014 train lateral thinking as a habit",
       "Run an assumption audit on your biggest product or process",
-      "Separate ideation from evaluation — green hat then black hat, never both at once",
+      "Separate ideation from evaluation \u2014 green hat then black hat, never both at once",
       "Study a different industry monthly and force-find three adaptable ideas",
       "Ban the idea killer phrases in your meeting rooms",
       "Celebrate a well-intentioned failure at your next team meeting",
-      "Hire for diversity of thought — seek backgrounds different from your current team"
+      "Hire for diversity of thought \u2014 seek backgrounds different from your current team"
+    ]
+  },
+  {
+    "id": "other-side-of-innovation",
+    "title": "The Other Side of Innovation",
+    "subtitle": "Solving the Execution Challenge",
+    "author": "Vijay Govindarajan & Chris Trimble",
+    "tags": [
+      "Innovation",
+      "Execution",
+      "Organizational Design",
+      "Strategy"
+    ],
+    "researchedBy": "Alec",
+    "dateAdded": "2026-03-11",
+    "status": "notes-complete",
+    "keyTakeaways": [
+      "Innovation = ideas + execution \u2014 most companies rate ideation 7-8/10 but execution only 1-2/10",
+      "The Performance Engine is structurally designed to kill innovation \u2014 not from malice but from efficiency focus",
+      "Every non-routine innovation needs a Dedicated Team separate from (but linked to) the core business",
+      "Innovation is an experiment, not a plan \u2014 spend a little, learn a lot, revise through rigorous learning",
+      "Custom metrics are essential \u2014 never evaluate innovation teams using Performance Engine KPIs"
+    ],
+    "overview": "Based on a decade of research at Dartmouth Tuck School with case studies from 13+ companies (Infosys, Deere, Nucor, IBM), this book provides a practical framework for executing innovation inside established organizations. The core thesis: ideas are only the beginning \u2014 the real challenge is execution.",
+    "overviewQuote": "Business organizations are not built for innovation; they are built for efficiency. Combining a discipline of efficiency with a discipline of innovation is just damned hard.",
+    "principles": [
+      {
+        "title": "Separate but Connected",
+        "description": "Innovation requires a Dedicated Team outside the Performance Engine, but leveraging its assets. Separation is not isolation."
+      },
+      {
+        "title": "Custom Organizational Model",
+        "description": "Every initiative needs its own structure \u2014 new roles, titles, culture. Do not build a Little Performance Engine."
+      },
+      {
+        "title": "Partnership Over Rebellion",
+        "description": "The humble negotiator beats the heroic rebel. Anticipate conflict, get senior executive sponsorship."
+      },
+      {
+        "title": "Disciplined Experimentation",
+        "description": "Crystal-clear hypothesis, break it down, test assumptions, revise formally. Great conversations over great spreadsheets."
+      }
+    ],
+    "frameworks": [
+      {
+        "name": "Innovation Team Formula",
+        "table": [
+          {
+            "element": "Dedicated Team",
+            "description": "Full-time workers exclusively on innovation \u2014 built like a new company"
+          },
+          {
+            "element": "Shared Staff",
+            "description": "Performance Engine workers contributing part-time"
+          },
+          {
+            "element": "Partnership",
+            "description": "Managed relationship requiring senior executive mediation"
+          },
+          {
+            "element": "Custom Scorecard",
+            "description": "Unique metrics \u2014 never import Performance Engine KPIs"
+          }
+        ]
+      },
+      {
+        "name": "Three Innovation Models",
+        "table": [
+          {
+            "element": "Ideas + Motivation (Nucor)",
+            "description": "Small improvements from empowered workers \u2014 fails for significant resource needs"
+          },
+          {
+            "element": "Ideas + Process (Deere)",
+            "description": "Repeatable formulas \u2014 fails when changes are too significant"
+          },
+          {
+            "element": "Ideas + Leaders (Rebel)",
+            "description": "Heroic individual fights org \u2014 fails because structure always wins"
+          }
+        ]
+      }
+    ],
+    "quotes": [
+      "Genius is 1% inspiration and 99% perspiration. \u2014 Edison. The authors add: Nobody listened.",
+      "The limits to innovation have nothing to do with creativity or technology. They have everything to do with management capability. \u2014 Ray Stata",
+      "In the end, the leader is broken, and the innovation lost.",
+      "The golden rule: spend a little, learn a lot."
+    ],
+    "actionItems": [
+      "Assess whether your Performance Engine can handle this initiative or if you need a Dedicated Team",
+      "Build the Dedicated Team like a new company \u2014 new roles, titles, culture",
+      "Define the partnership explicitly \u2014 who shares what, under what terms",
+      "Appoint a senior executive to mediate between teams",
+      "Create a custom scorecard \u2014 never measure innovation with operational KPIs",
+      "Write a hypothesis of record and break into testable sub-hypotheses",
+      "Schedule formal plan revisions every 4-6 weeks",
+      "Reward honest learning, not just hitting targets"
     ]
   }
 ]

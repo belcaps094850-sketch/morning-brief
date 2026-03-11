@@ -1,20 +1,696 @@
 [
   {
+    "id": 6,
+    "title": "2026 Group Insurance Portal Strategy",
+    "status": "active",
+    "progress": 30,
+    "overview": "Strategic product roadmap for Group Insurance CX portals in 2026 — aligned to Prudential's stated goals of Premier segment growth, product diversification (MSL, supplemental health), and best-in-class customer experience.",
+    "startDate": "2026-03-11",
+    "lastUpdated": "2026-03-11",
+    "sections": [
+      {
+        "title": "Strategic Alignment",
+        "type": "callout",
+        "text": "Every initiative maps to Prudential's stated 2026 priorities: diversify market segments (Premier, Association), diversify products (MSL, supplemental health, disability), deepen employer/participant relationships, and leverage technology for efficiency."
+      },
+      {
+        "title": "Priority 1: Premier Segment Portal Experience",
+        "type": "list",
+        "items": [
+          "WHY: Prudential aggressively growing Premier segment (100–5,000 lives). These employers have smaller HR teams, less benefits expertise, need more hand-holding.",
+          "Simplified employer admin portal — fewer clicks, guided workflows, less assumption admin is a benefits expert",
+          "Self-service plan setup wizard for smaller employers vs heavy implementation process National accounts get",
+          "Broker-facing dashboard — Premier business flows through brokers. Real-time visibility into enrollment status, utilization, renewal pipeline",
+          "Benchmark data for small employers — \"companies your size typically offer X\" guidance during plan design"
+        ]
+      },
+      {
+        "title": "Priority 2: Medical Stop Loss Portal (Net New)",
+        "type": "list",
+        "items": [
+          "WHY: Prudential entered MSL Jan 2025. Brand new product line with zero legacy portal infrastructure. First-mover CX advantage.",
+          "Claims tracking portal — employers and TPAs need visibility into specific/aggregate claim accumulation against attachment points",
+          "Reimbursement status dashboard — real-time status when claims exceed specific deductible",
+          "TPA data feed integration — MSL depends on third-party administrator claims data. Build clean ingestion and reconciliation",
+          "Renewal experience — attachment point modeling, loss ratio visualization, \"what-if\" scenarios for renewal"
+        ]
+      },
+      {
+        "title": "Priority 3: GUL/GVUL Participant Self-Service",
+        "type": "list",
+        "items": [
+          "WHY: $27B in GVUL separate accounts. Participants need to manage investments, view cash value, take loans/withdrawals. Sticky engagement surface.",
+          "Modern fund selection UX — 30+ variable investment options need clean, mobile-responsive comparison and allocation tool",
+          "Cash value dashboard — total cash value, death benefit, COI charges, projected growth under different contribution scenarios",
+          "Loan/withdrawal self-service — reduce call center volume by letting participants model and initiate policy loans online",
+          "Beneficiary management — simple, mobile-friendly updates (massive call driver industry-wide)",
+          "Life event triggers — marriage, baby, divorce, retirement prompts to review coverage and beneficiaries"
+        ]
+      },
+      {
+        "title": "Priority 4: Enrollment Modernization",
+        "type": "list",
+        "items": [
+          "WHY: Open enrollment IS the moment that matters. Prudential's strategy: \"deepening relationships in moments that matter.\"",
+          "Decision support tools — help employees choose between group term, GUL, and GVUL with plain-language comparisons",
+          "Digital EOI (Evidence of Insurability) flow — streamline medical underwriting for amounts above guaranteed issue. Industry-wide pain point.",
+          "Multi-product enrollment — bundle life + disability + supplemental health + MSL in one seamless flow as product suite grows",
+          "Mobile-first enrollment — critical for Premier segment where deskless workers are common"
+        ]
+      },
+      {
+        "title": "Priority 5: Claims Experience Transformation",
+        "type": "list",
+        "items": [
+          "WHY: Group life benefits ratio is 84%. Every point of improvement matters for CX and operational cost.",
+          "Digital claims intake — reduce paper/phone. Let beneficiaries submit death, accelerated benefit, and waiver of premium claims online",
+          "Claims status tracker — real-time visibility: \"Your claim is in review → approved → payment issued\"",
+          "Empathy integration — Prudential already partners with Empathy (grief support). Embed directly in claims portal.",
+          "Employer notification dashboard — HR admins track claims for their populations without seeing claimant PII"
+        ]
+      },
+      {
+        "title": "Priority 6: Competitive Differentiation vs MetLife",
+        "type": "list",
+        "items": [
+          "WHY: MetLife is 2x Prudential's size and investing heavily in AI. Their expense ratio is already 11.7%.",
+          "AI-powered chat — \"What's my death benefit?\" / \"How do I change my beneficiary?\" / \"Can I take a GUL loan?\"",
+          "Proactive notifications — premium reminders, beneficiary review prompts, GVUL rebalancing suggestions",
+          "API-first architecture — let brokers and TPAs integrate programmatically vs logging into separate portals",
+          "Accessibility and language — SGLI military families, diverse workforces. Multi-language + WCAG compliance."
+        ]
+      },
+      {
+        "title": "Prioritization Matrix (Impact vs Effort)",
+        "type": "table",
+        "headers": [
+          "Initiative",
+          "Business Impact",
+          "Effort",
+          "Timing"
+        ],
+        "rows": [
+          [
+            "Premier segment simplified admin",
+            "🔴 High",
+            "Medium",
+            "Q1–Q2 2026"
+          ],
+          [
+            "MSL claims/tracking portal",
+            "🔴 High",
+            "High",
+            "Q1–Q3 2026"
+          ],
+          [
+            "GUL/GVUL participant self-service",
+            "🔴 High",
+            "Medium",
+            "Q2–Q3 2026"
+          ],
+          [
+            "Enrollment decision support",
+            "🟡 Medium",
+            "Medium",
+            "Q2 2026 (before fall enrollment)"
+          ],
+          [
+            "Digital claims intake",
+            "🟡 Medium",
+            "Low–Medium",
+            "Q1 2026"
+          ],
+          [
+            "AI chat for participants",
+            "🟡 Medium",
+            "Medium",
+            "Q3–Q4 2026"
+          ],
+          [
+            "Beneficiary management mobile",
+            "🟢 Quick Win",
+            "Low",
+            "Q1 2026"
+          ],
+          [
+            "Broker dashboard",
+            "🟡 Medium",
+            "Medium",
+            "Q2 2026"
+          ]
+        ]
+      },
+      {
+        "title": "The Big Bet: Unified \"My Benefits\" Portal",
+        "type": "callout",
+        "text": "Build a single participant portal that brings together group term life, GUL, GVUL, disability, supplemental health, and MSL into one clean experience. As Prudential diversifies its product suite, participants shouldn't navigate 4 different systems. This directly supports \"deepening employer and participant relationships\" and becomes a competitive moat that MetLife's fragmented legacy can't easily replicate."
+      },
+      {
+        "title": "Quick Wins for Q1 2026",
+        "type": "list",
+        "items": [
+          "Mobile beneficiary management — highest call volume driver, lowest effort to digitize",
+          "Digital claims intake form — replace paper/phone with web form + document upload",
+          "Employer admin: one-click enrollment status report — give HR admins instant visibility without calling support",
+          "GVUL fund performance dashboard refresh — modernize the look of existing fund data pages"
+        ]
+      },
+      {
+        "title": "Metrics to Track",
+        "type": "table",
+        "headers": [
+          "Metric",
+          "Current Baseline",
+          "2026 Target",
+          "Why It Matters"
+        ],
+        "rows": [
+          [
+            "Digital enrollment rate",
+            "TBD",
+            "+20% YoY",
+            "Reduces admin cost, improves data quality"
+          ],
+          [
+            "Call center volume (beneficiary changes)",
+            "TBD",
+            "-30%",
+            "Direct cost savings from self-service"
+          ],
+          [
+            "Claims submission to first payment (days)",
+            "TBD",
+            "-25%",
+            "CX + benefits ratio improvement"
+          ],
+          [
+            "Participant portal monthly active users",
+            "TBD",
+            "+40%",
+            "Engagement = retention = persistency"
+          ],
+          [
+            "Employer NPS",
+            "TBD",
+            "+10 points",
+            "Retention driver for group contracts"
+          ],
+          [
+            "Broker portal adoption",
+            "TBD",
+            "60% of Premier brokers",
+            "Supports Premier segment growth"
+          ]
+        ]
+      }
+    ],
+    "researchNotes": [
+      "Strategy derived from Prudential Q4 2025 earnings call, Q4 2025 earnings slides, 2024 Annual Report, and Q1 2025 Investor Update",
+      "Competitive benchmarking against MetLife (2x scale, AI-driven efficiency) and Securian (GUL specialist, 3% guaranteed minimum)",
+      "Medical stop loss is net-new territory — no legacy portal constraints, opportunity to build best-in-class from scratch",
+      "Premier segment (100–5,000 lives) requires fundamentally different UX than National (5,000+) — smaller HR teams, less expertise",
+      "GVUL separate accounts ($26.9B) represent the largest self-service engagement opportunity"
+    ],
+    "businessAngle": "As a product owner for group insurance portals, this roadmap aligns every initiative to Prudential's stated strategic priorities — ensuring portal investments directly support revenue growth (Premier, MSL), cost reduction (digital claims, self-service), and competitive differentiation (vs MetLife).",
+    "pocStatus": "Strategy defined. Next: validate priorities with stakeholder interviews, establish current baseline metrics, and build Q1 quick-win sprint plan.",
+    "resources": [
+      {
+        "title": "Prudential GUL/GVUL Research (Alec Lab)",
+        "url": "/deep-dives?id=5"
+      },
+      {
+        "title": "Prudential Q4 2025 Earnings Slides",
+        "url": "https://s203.q4cdn.com/245412310/files/doc_financials/2025/q4/4Q25-Earnings-Call-Presentation.pdf"
+      },
+      {
+        "title": "Prudential Group Insurance Products",
+        "url": "https://www.prudential.com/employers/group-insurance/products/life-insurance"
+      },
+      {
+        "title": "MetLife Group Benefits",
+        "url": "https://www.metlife.com/business-and-brokers/employee-benefits/life-insurance/"
+      },
+      {
+        "title": "Medical Stop Loss Research (Alec Lab)",
+        "url": "/deep-dives?id=1"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Prudential GUL/GVUL — Revenue & Competitive Analysis",
+    "status": "active",
+    "progress": 95,
+    "overview": "Deep research into Prudential Financial's Group Universal Life (GUL) and Group Variable Universal Life (GVUL) products — revenue estimation, competitive landscape, product features, pricing economics, and strategic goals.",
+    "startDate": "2026-03-10",
+    "lastUpdated": "2026-03-11",
+    "sections": [
+      {
+        "title": "Prudential Group Insurance Financials",
+        "type": "table",
+        "headers": [
+          "Metric",
+          "2024",
+          "2025",
+          "Change"
+        ],
+        "rows": [
+          [
+            "Total Revenue",
+            "$6.43B",
+            "$6.77B",
+            "+5%"
+          ],
+          [
+            "Group Life Gross Premiums + Fees",
+            "$4.53B",
+            "$4.71B",
+            "+4%"
+          ],
+          [
+            "Group Disability Gross Premiums + Fees",
+            "$1.64B",
+            "$1.74B",
+            "+6%"
+          ],
+          [
+            "Adjusted Operating Income",
+            "$314M",
+            "$381M",
+            "+21%"
+          ],
+          [
+            "Group Life New Business Premiums",
+            "$289M",
+            "$325M",
+            "+12%"
+          ],
+          [
+            "Net Face Amount In-Force",
+            "—",
+            "$2.12T",
+            "—"
+          ],
+          [
+            "Group Life Benefits Ratio",
+            "86.9%",
+            "84.0%",
+            "Improved"
+          ],
+          [
+            "Group Life Persistency",
+            "—",
+            "96.1%",
+            "—"
+          ]
+        ]
+      },
+      {
+        "title": "GUL/GVUL Revenue Proxies (from SEC Filings)",
+        "type": "list",
+        "items": [
+          "Policyholders' Account Balances (Group Life): ~$4.7B — almost entirely GUL/GVUL cash value",
+          "GVUL Separate Account Liabilities: ~$26.9B — employee investment assets in variable options",
+          "Interest Credited to Policyholders: $137M (2025) — Prudential pays this on fixed GUL accounts",
+          "Policy Charges & Fee Income (Group Life): $618M (2025) — significant portion from GUL/GVUL COI charges",
+          "Prudential leads 'Other Considerations' category at $18B, 23.2% market share (#1)",
+          "GUL excess premiums that build cash value are EXCLUDED from new business premium counts"
+        ]
+      },
+      {
+        "title": "Estimated GUL/GVUL Revenue Contribution",
+        "type": "callout",
+        "text": "Conservative estimate: $800M–$1.2B from GUL/GVUL-related revenue streams within the $4.7B group life business, plus ongoing fees on ~$27B in GVUL investment assets. GVUL asset-based fees alone: $67M–$135M/year."
+      },
+      {
+        "title": "Group Life Market Share (NAIC 2024)",
+        "type": "table",
+        "headers": [
+          "Rank",
+          "Carrier",
+          "Premiums Written",
+          "Market Share"
+        ],
+        "rows": [
+          [
+            "1",
+            "MetLife",
+            "$9.96B",
+            "22.5%"
+          ],
+          [
+            "2",
+            "Prudential",
+            "$4.42B",
+            "10.0%"
+          ],
+          [
+            "3",
+            "New York Life",
+            "$3.72B",
+            "8.4%"
+          ],
+          [
+            "4",
+            "Nationwide",
+            "$3.36B",
+            "7.6%"
+          ],
+          [
+            "5",
+            "Securian",
+            "$3.18B",
+            "7.2%"
+          ],
+          [
+            "6",
+            "Hartford",
+            "$2.34B",
+            "5.3%"
+          ],
+          [
+            "7",
+            "Unum",
+            "$1.87B",
+            "4.2%"
+          ],
+          [
+            "8",
+            "Lincoln National",
+            "$1.65B",
+            "3.7%"
+          ],
+          [
+            "9",
+            "Standard",
+            "$1.59B",
+            "3.6%"
+          ],
+          [
+            "10",
+            "Guardian",
+            "$0.87B",
+            "2.0%"
+          ]
+        ]
+      },
+      {
+        "title": "Top GUL/GVUL Competitor Financials",
+        "type": "list",
+        "items": [
+          "MetLife — Group Benefits 2025 adjusted earnings: $1.7B. Added ~$600M new PFOs. Group life mortality ratio: 83.1%. Offers both GUL and GVUL. 2x Prudential's scale.",
+          "Securian — 2024 operating revenue: $8.1B (+10%). Insurance sales: $731M (+10%). Core earnings: $260M (+46%). Known GUL specialist. Mutual company, limited public data.",
+          "New York Life — #3 in group life (~$3.7B). Offers both GUL and GVUL. Mutual company. Strong brand trust.",
+          "Lincoln Financial — Mid-tier group life. Stronger in individual VUL than group UL.",
+          "Hartford — $2.34B group life premiums. Competes in supplemental/voluntary life space."
+        ]
+      },
+      {
+        "title": "Product Comparison: GUL vs GVUL",
+        "type": "table",
+        "headers": [
+          "Feature",
+          "GUL",
+          "GVUL"
+        ],
+        "rows": [
+          [
+            "Cash Value Growth",
+            "Fixed interest (guaranteed min)",
+            "Variable investment options + fixed"
+          ],
+          [
+            "Risk to Employee",
+            "Low",
+            "Higher — market risk"
+          ],
+          [
+            "Investment Options",
+            "None — single guaranteed account",
+            "30+ fund families (Prudential)"
+          ],
+          [
+            "Regulatory",
+            "Insurance product only",
+            "Securities product (prospectus, FINRA)"
+          ],
+          [
+            "Distribution",
+            "Insurance agents",
+            "Broker-dealer required (PIMS for Pru)"
+          ],
+          [
+            "Complexity",
+            "Simpler for employees",
+            "More complex, more upside"
+          ]
+        ]
+      },
+      {
+        "title": "Carrier Product Features",
+        "type": "list",
+        "items": [
+          "Prudential GVUL: 30+ variable investment options (AB, American Century, BNY Mellon, DWS, Franklin Templeton, Janus Henderson, LVIP JPMorgan, PGIM). $26.9B separate accounts. Distributed through PIMS. PGIM captures both wrapper + investment management fees.",
+          "MetLife GVUL: Variable portfolios + fixed account. 2% withdrawal fee (max $25). Coverage to maturity age. Risk: employer contract termination can affect ported coverage.",
+          "MetLife GUL: Fixed interest-bearing account with guaranteed minimum. Tax-deferred. Portability available but rates may change.",
+          "Securian GUL: 3% guaranteed minimum interest rate (competitive). No GVUL offering. Customizable features. Start/stop premiums anytime without charge. Accelerated death benefit."
+        ]
+      },
+      {
+        "title": "How Carriers Make Money on GUL/GVUL",
+        "type": "table",
+        "headers": [
+          "Revenue Source",
+          "GUL",
+          "GVUL"
+        ],
+        "rows": [
+          [
+            "COI charges (mortality spread)",
+            "✅",
+            "✅"
+          ],
+          [
+            "Investment spread",
+            "✅ Earn above guaranteed rate",
+            "❌ Mostly pass-through"
+          ],
+          [
+            "Asset-based fees",
+            "❌",
+            "✅ 0.25–0.50% of AUM"
+          ],
+          [
+            "Premium loads",
+            "✅ 5–10%",
+            "✅ 5–10%"
+          ],
+          [
+            "Admin fees",
+            "✅ $1–3/month",
+            "✅ $1–3/month"
+          ],
+          [
+            "Surrender charges",
+            "✅",
+            "✅"
+          ],
+          [
+            "Loan spread",
+            "✅",
+            "✅"
+          ]
+        ]
+      },
+      {
+        "title": "Prudential Strengths & Weaknesses",
+        "type": "table",
+        "headers": [
+          "Strengths",
+          "Weaknesses"
+        ],
+        "rows": [
+          [
+            "$27B GVUL separate accounts (sticky assets)",
+            "Half the scale of MetLife in group life"
+          ],
+          [
+            "PGIM integration (captures wrapper + fund fees)",
+            "GUL/GVUL revenue not broken out publicly"
+          ],
+          [
+            "Strong fund lineup (30+ options)",
+            "Less competitive on COI pricing for jumbo cases"
+          ],
+          [
+            "National + Premier + Association markets",
+            "GVUL complexity requires FINRA distribution"
+          ],
+          [
+            "96%+ persistency ratio",
+            "Individual Life segment losing money"
+          ]
+        ]
+      },
+      {
+        "title": "Prudential's Strategic Goals for Group Insurance",
+        "type": "callout",
+        "text": "Core strategy: Diversify everything — more market segments, more products, better digital experiences — while keeping the benefits ratio in the 83–87% target corridor and maintaining National Market dominance."
+      },
+      {
+        "title": "Goal 1: Market Segment Diversification",
+        "type": "list",
+        "items": [
+          "Maintain leadership in the National Market (5,000+ lives) — core bread and butter",
+          "Grow the Premier segment (100–5,000 lives) — key downmarket expansion priority",
+          "Grow the Association segment — affinity/membership group business",
+          "Q4 2025 earnings call: \"continued momentum in our Premier segment in both Group Life and Disability as we execute our product and market segment diversification strategy\""
+        ]
+      },
+      {
+        "title": "Goal 2: Product Diversification",
+        "type": "list",
+        "items": [
+          "Expand Disability and Supplemental Health products — beyond core group life",
+          "Medical Stop Loss — entered market with coverage effective Jan 1, 2025. Brand new product line, entering a $30–35B market",
+          "Growing voluntary supplemental health products",
+          "Enhancing Disability and Voluntary Benefits platform and products"
+        ]
+      },
+      {
+        "title": "Goal 3: Financial Targets",
+        "type": "table",
+        "headers": [
+          "Metric",
+          "Target",
+          "2025 Actual",
+          "Status"
+        ],
+        "rows": [
+          [
+            "Total Benefits Ratio",
+            "83%–87%",
+            "81.9%",
+            "✅ Beating target"
+          ],
+          [
+            "Group Life Benefits Ratio",
+            "—",
+            "84.0%",
+            "Within range"
+          ],
+          [
+            "Group Disability Benefits Ratio",
+            "—",
+            "76.5%",
+            "Within range"
+          ],
+          [
+            "Adj. Operating Income Growth",
+            "Grow",
+            "$381M (+21% YoY)",
+            "✅ Strong"
+          ],
+          [
+            "Sales Growth",
+            "Grow",
+            "$611M (+11% YoY)",
+            "✅ Strong"
+          ],
+          [
+            "Admin Expense Ratio",
+            "Improve",
+            "14.9% (from 15.0%)",
+            "✅ Improving"
+          ]
+        ]
+      },
+      {
+        "title": "Goal 4: Customer Experience & Technology",
+        "type": "list",
+        "items": [
+          "Deepen employer and participant relationships for superior experiences \"in moments that matter\"",
+          "Enhance employer and participant experience through strategic partnerships",
+          "Improve organizational and process efficiencies by leveraging technology to strengthen capabilities",
+          "Investing in best-in-class customer experience across enrollment, claims, and service"
+        ]
+      },
+      {
+        "title": "Goal 5: Earnings Contribution Growth",
+        "type": "list",
+        "items": [
+          "Group Insurance currently contributes 5% of Prudential total U.S. Businesses earnings — goal is to grow this share",
+          "Revenue mix: ~29% underwriting margin, ~45% net spread income — balanced model",
+          "Group Insurance and Individual Life described as \"benefiting from ongoing product and segment diversification\" (Q4 2025 slides)",
+          "Medical stop loss entry is the boldest strategic move — puts them directly into high-growth $30B+ market leveraging existing employer relationships"
+        ]
+      },
+      {
+        "title": "Strategic Context",
+        "type": "list",
+        "items": [
+          "GUL/GVUL is a mature, slow-growth niche within group life — growth via employer expansion, higher face amounts, market appreciation",
+          "Trend toward voluntary benefits favors GUL/GVUL as employee-paid products",
+          "Prudential entering medical stop loss (Jan 2025) signals diversification beyond traditional group life",
+          "Group Insurance segment sales grew 11% YoY in 2025",
+          "MetLife's AI-driven efficiency lowering expense ratio faster (11.7% in 2025)",
+          "Total U.S. group life market: $50B in direct premiums written (2024), up from $45.9B in 2023"
+        ]
+      }
+    ],
+    "researchNotes": [
+      "Prudential doesn't break out GUL/GVUL as a separate line in any public filing",
+      "Best proxies: Policyholders' Account Balances ($4.7B) and Separate Account Liabilities ($26.9B)",
+      "Data sourced from: Prudential 2024 Annual Report (10-K), Q4 2025 QFS, NAIC/III industry data, MetLife Q4 2025 earnings call, Securian 2024 results",
+      "Prudential is #2 in group life overall, #1 in 'Other Considerations' (deposit-type flows including GUL/GVUL)",
+      "Strategic goals sourced from: Q4 2025 Earnings Call Transcript, Q4 2025 Earnings Presentation slides, Q1 2025 Investor Update",
+      "Benefits ratio target of 83-87% confirmed in Q4 2025 earnings presentation (slide 11)"
+    ],
+    "businessAngle": "Understanding Prudential's GUL/GVUL business helps identify portal and digital experience opportunities — enrollment flows, beneficiary management, cash value tracking, fund selection UX, and claims processing for the group life segment.",
+    "pocStatus": "Research 95% complete. Strategic goals mapped. Remaining: deeper dive into specific COI rate comparisons and GVUL fund performance data.",
+    "resources": [
+      {
+        "title": "Prudential 2024 Annual Report (SEC)",
+        "url": "https://www.sec.gov/Archives/edgar/data/1137774/000110465925028763/tm2429652d4_ars.pdf"
+      },
+      {
+        "title": "Prudential Q4 2025 QFS",
+        "url": "https://s203.q4cdn.com/245412310/files/doc_financials/2025/q4/4Q25-QFS.pdf"
+      },
+      {
+        "title": "III Facts & Statistics: Life Insurance",
+        "url": "https://www.iii.org/fact-statistic/facts-statistics-life-insurance"
+      },
+      {
+        "title": "Prudential GVUL Fund Reports",
+        "url": "https://www.prudential.com/employers/group-insurance/gvul-funds"
+      },
+      {
+        "title": "MetLife GVUL Product Page",
+        "url": "https://www.metlife.com/insurance/life-insurance/group-variable-universal-life-insurance/"
+      },
+      {
+        "title": "Securian GUL Product Page",
+        "url": "https://www.securian.com/employers/products/group-life-accidental-death-dismemberment-insurance/group-universal-life-insurance.html"
+      }
+    ]
+  },
+  {
     "id": 1,
-    "title": "Medical Stop Loss Insurance \u2014 Market Deep Dive",
+    "title": "Medical Stop Loss Insurance — Market Deep Dive",
     "status": "active",
     "progress": 35,
     "overview": "Understanding the MSL market end-to-end: how self-funded health plans work, what stop loss covers, who the key carriers are, and where technology can disrupt the value chain.",
     "researchNotes": [
       "Market size: $30-35B+ in annual premium, growing 8-12% YoY",
-      "Self-funding trend moving downmarket \u2014 now viable for 100+ life groups, level-funded pushing to 10+",
+      "Self-funding trend moving downmarket — now viable for 100+ life groups, level-funded pushing to 10+",
       "Key carriers: Sun Life (#1-2), HM Insurance (oldest pure-play), Voya, Berkshire Hathaway Specialty, Tokio Marine HCC",
       "Distribution dominated by brokers (Marsh, Aon, WTW, Lockton) and TPAs",
       "Emerging InsurTech players: Ringmaster Technologies, AccuRisk Solutions",
       "Gene/cell therapy and GLP-1 drugs reshaping risk profiles and pricing"
     ],
-    "businessAngle": "Build tools for brokers and employers to compare stop loss quotes, model claim scenarios, and optimize attachment points. The quoting process is still largely manual and spreadsheet-driven \u2014 ripe for automation.",
-    "pocStatus": "Planning phase \u2014 need to define MVP scope. Cost simulator is the leading candidate for first POC.",
+    "businessAngle": "Build tools for brokers and employers to compare stop loss quotes, model claim scenarios, and optimize attachment points. The quoting process is still largely manual and spreadsheet-driven — ripe for automation.",
+    "pocStatus": "Planning phase — need to define MVP scope. Cost simulator is the leading candidate for first POC.",
     "resources": [
       {
         "title": "Nova's MSL Overview",
@@ -35,12 +711,12 @@
   },
   {
     "id": 2,
-    "title": "Kubernetes \u2014 Container Orchestration",
+    "title": "Kubernetes — Container Orchestration",
     "status": "active",
     "progress": 15,
     "overview": "4-week hands-on learning path covering K8s fundamentals through production patterns. Using minikube for local cluster.",
     "researchNotes": [
-      "Week 1: Foundations \u2014 pods, nodes, namespaces, first YAML specs",
+      "Week 1: Foundations — pods, nodes, namespaces, first YAML specs",
       "Week 2: Deployments, Services, rolling updates, networking",
       "Week 3: ConfigMaps, Secrets, PersistentVolumes, storage",
       "Week 4: Health checks, resource limits, namespaces, Helm",
@@ -69,15 +745,15 @@
     "title": "DORA Metrics & Software Delivery Performance",
     "status": "active",
     "progress": 80,
-    "overview": "Research into Accelerate (Forsgren, Humble, Kim) \u2014 the science behind DevOps. DORA four key metrics, 24 capabilities, Westrum organizational culture.",
+    "overview": "Research into Accelerate (Forsgren, Humble, Kim) — the science behind DevOps. DORA four key metrics, 24 capabilities, Westrum organizational culture.",
     "researchNotes": [
       "DORA metrics: deployment frequency, lead time, change failure rate, MTTR",
-      "Speed and stability are NOT tradeoffs \u2014 elite teams have both",
+      "Speed and stability are NOT tradeoffs — elite teams have both",
       "24 capabilities across CD, architecture, product, lean management, culture",
       "Westrum generative culture is the strongest predictor of all performance metrics",
-      "CABs slow delivery without improving stability \u2014 peer review works better",
+      "CABs slow delivery without improving stability — peer review works better",
       "High-performing teams 2x more likely to exceed profitability and market share goals",
-      "Burnout is preventable \u2014 caused by bad practices, not high performance"
+      "Burnout is preventable — caused by bad practices, not high performance"
     ],
     "businessAngle": "Apply DORA metrics to enterprise portal team. Measure deployment frequency and lead time for registration/login/claims features. Assess culture with Westrum typology.",
     "pocStatus": "Book research complete. Ready to apply metrics to current team.",
@@ -103,11 +779,11 @@
     "progress": 25,
     "overview": "Research into structured problem analysis techniques: Fishbone (Ishikawa), 5 Whys, Lotus Blossom, and Cogitate methods.",
     "researchNotes": [
-      "Fishbone (Ishikawa): causal diagram \u2014 problem as fish head, causes as bones. Categories: People, Process, Technology, Environment, Materials, Measurement",
-      "5 Whys: iterative root cause analysis \u2014 keep asking why until you reach the actionable root cause. Created by Taiichi Ohno at Toyota",
-      "Lotus Blossom: structured ideation \u2014 central problem expands into 8 themes, each theme expands into 8 sub-ideas (64 total)",
+      "Fishbone (Ishikawa): causal diagram — problem as fish head, causes as bones. Categories: People, Process, Technology, Environment, Materials, Measurement",
+      "5 Whys: iterative root cause analysis — keep asking why until you reach the actionable root cause. Created by Taiichi Ohno at Toyota",
+      "Lotus Blossom: structured ideation — central problem expands into 8 themes, each theme expands into 8 sub-ideas (64 total)",
       "Cogitate: structured thinking framework for complex problem decomposition",
-      "All four complement each other \u2014 Fishbone for mapping causes, 5 Whys for drilling deep, Lotus Blossom for expanding solutions"
+      "All four complement each other — Fishbone for mapping causes, 5 Whys for drilling deep, Lotus Blossom for expanding solutions"
     ],
     "businessAngle": "Apply to enterprise portal incidents and production issues. Train team on structured root cause analysis instead of ad-hoc troubleshooting.",
     "pocStatus": "Research in progress.",
