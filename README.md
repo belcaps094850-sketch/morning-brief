@@ -1,16 +1,29 @@
-# React + Vite
+# Morning Brief
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Daily digest dashboard pulling in AI news, SRE updates, book takeaways, and ideas backlog.
 
-Currently, two official plugins are available:
+## Pages
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Dashboard** — Today's digest at a glance
+- **Ideas** — Backlog of project ideas and explorations
+- **Deep Dives** — In-depth analysis on selected topics
+- **Books** — Book notes and reading list
+- **Archive** — Past briefs and historical data
 
-## React Compiler
+## Stack
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- React + Vite
+- Static JSON data (seeded from agent reports)
 
-## Expanding the ESLint configuration
+## Run
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+```bash
+npm install
+npm run dev     # http://localhost:3000
+npm run build   # Production build → dist/
+```
+
+## Related
+
+- Part of the [Bel Learning Lab](https://github.com/belcaps094850-sketch/forgerock-learning-lab) ecosystem
+- Data sourced from Radar, Scout, and Scribe agent reports
